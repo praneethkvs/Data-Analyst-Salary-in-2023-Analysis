@@ -1,0 +1,962 @@
+Company,City,employee_as_of,Remote_Flag,years_at_company,years_of_exp,total_comp,base_salary,stock_rsu_comp,annual_target_bonus
+PwC,"San Francisco, CA",Offer from 03/20/2023,Office,0 yrs,0 yrs,"$95,375","$85,000",--,"$10,375"
+Avanade,"Chicago, IL",Employee as of 03/20/2023,Remote,2 yrs,10 yrs,"$98,000","$98,000",--,--
+LinkedIn,"San Francisco, CA",Employee as of 03/20/2023,Hybrid,1 yrs,5 yrs,"$163,750","$122,500","$28,750","$12,500"
+Best Buy,Minneapolis-St. Paul,Employee as of 03/20/2023,Hybrid,2-4 yrs,5-10 yrs,"$105,000","$95,000",--,"$10,000"
+American Systems,"Chantilly, VA",Employee as of 03/20/2023,Remote,1 yrs,6 yrs,"$126,000","$121,000",--,"$5,000"
+Bridgewater Associates,"Westport, CT",Employee as of 03/19/2023,Office,1 yr,1 yr,"$110,000","$85,000",--,"$25,000"
+Goldman Sachs,"New York, NY",Employee as of 03/19/2023,Hybrid,5-10 yrs,5-10 yrs,"$145,000","$145,000",--,--
+One Medical,"San Francisco, CA",Employee as of 03/17/2023,Remote,1 yrs,5 yrs,"$135,000","$126,000","$9,000",--
+Capital One,"West McLean, VA",Employee as of 03/17/2023,Office,2 yrs,2 yrs,"$123,300","$120,000",--,"$3,300"
+Nike,Portland,Employee as of 03/17/2023,Hybrid,0-1 yrs,0-1 yrs,"$83,600","$76,000",--,"$7,600"
+Apple,"Los Angeles, CA",Employee as of 03/17/2023,Hybrid,1 yrs,6 yrs,"$163,000","$163,000",--,--
+Valera health,"Seattle, WA",Employee as of 03/17/2023,Remote,1 yrs,5 yrs,"$130,000","$120,000",--,"$10,000"
+KPMG,"New York, NY",Employee as of 03/17/2023,Remote,2 yrs,2 yrs,"$87,800","$87,000",--,$800
+McDonald's,"Chicago, IL",Employee as of 03/17/2023,Remote,1 yrs,8 yrs,"$130,000","$130,000",--,--
+Google,"San Francisco, CA",Employee as of 03/17/2023,Office,3 yrs,5 yrs,"$265,500","$183,000","$55,000","$27,500"
+SAP,"Philadelphia, PA",Employee as of 03/17/2023,Office,4 yrs,4 yrs,"$122,100","$90,100","$20,000","$12,000"
+Delta Air Lines,"Atlanta, GA",Employee as of 03/17/2023,Hybrid,3 yrs,3 yrs,"$86,720","$82,720",--,"$4,000"
+Expedia,"Seattle, WA",Employee as of 03/16/2023,Office,6 yrs,10 yrs,"$136,000","$136,000",--,--
+Microsoft,"Seattle, WA",Employee as of 03/16/2023,Remote,6 yrs,20 yrs,"$245,000","$180,000","$40,000","$25,000"
+Capital One,"Richmond, VA",Employee as of 03/16/2023,Hybrid,5-10 yrs,5-10 yrs,"$192,000","$172,000",--,"$20,000"
+hidden,"Miami, FL",Employee as of 03/16/2023,Remote,2-4 yrs,2-4 yrs,"$88,000","$88,000",--,--
+Chewy,"Seattle, WA",Employee as of 03/16/2023,Remote,1 yrs,3 yrs,"$120,000","$100,000","$20,000",--
+Square,"San Francisco, CA",Employee as of 03/16/2023,Hybrid,3 yrs,7 yrs,"$213,000","$155,000","$58,000",--
+ICF,"Austin, TX",Employee as of 03/16/2023,Hybrid,1 yr,1 yr,"$58,000","$58,000",--,--
+Salesforce,"New York, NY",Employee as of 03/15/2023,Office,1 yrs,4 yrs,"$159,000","$145,000",--,"$14,000"
+Capital One,"Washington, DC",Employee as of 03/15/2023,Hybrid,10 yrs,10 yrs,"$380,000","$269,000","$51,000","$60,000"
+FDM Group,"Oklahoma City, OK",Employee as of 03/15/2023,Remote,3 yrs,3 yrs,"$50,000","$50,000",--,--
+Fidelity Investments,"Dallas, TX",Employee as of 03/15/2023,Hybrid,1 yrs,3 yrs,"$115,800","$100,800",--,"$15,000"
+Credit One Bank,"Las Vegas, NV",Employee as of 03/15/2023,Office,0 yrs,3 yrs,"$65,000","$65,000",--,--
+Expeditors,"Seattle, WA",Employee as of 03/15/2023,Office,5-10 yrs,5-10 yrs,"$120,000","$120,000",--,--
+Fidelity Investments,"Boston, MA",Employee as of 03/15/2023,Office,5-10 yrs,11+ yrs,"$250,000","$170,000","$30,000","$50,000"
+hidden,"San Francisco, CA",Employee as of 03/15/2023,Hybrid,2 yrs,3 yrs,"$168,235","$160,000","$8,235",y1
+Google,"New York, NY",Employee as of 03/15/2023,Office,3 yrs,15 yrs,"$340,000","$227,000","$70,000","$43,000"
+Infosys,"Los Angeles, CA",Employee as of 03/15/2023,Remote,2 yrs,2 yrs,"$62,000","$58,000",--,"$4,000"
+Northrop Grumman,"Los Angeles, CA",Employee as of 03/15/2023,Office,0 yrs,0 yrs,"$76,000","$75,000",--,"$1,000"
+Emerson,"Sidney, OH",Offer from 03/14/2023,Hybrid,0 yrs,7 yrs,"$73,000","$73,000",--,--
+hidden,"Huntsville, AL",Employee as of 03/14/2023,Hybrid,3 yrs,3 yrs,"$81,000","$79,000",--,"$2,000"
+Unity,"San Francisco, CA",Employee as of 03/14/2023,Office,2 yrs,5 yrs,"$189,000","$149,000","$40,000",--
+CACI International,"Washington, DC",Employee as of 03/14/2023,Hybrid,2 yrs,2 yrs,"$75,000","$75,000",--,--
+Blue Cross Blue Shield Association,"Tulsa, OK",Offer from 03/14/2023,Office,0 yrs,7 yrs,"$107,250","$100,000",--,"$7,250"
+Fiserv,"Frisco, TX",Offer from 03/14/2023,Office,0 yrs,8 yrs,"$118,000","$118,000",--,--
+Accenture,"Arlington, VA",Employee as of 03/14/2023,Hybrid,2 yrs,2 yrs,"$86,000","$83,000","$2,000","$1,000"
+hidden,"Austin, TX",Employee as of 03/13/2023,Remote,0-1 yrs,5-10 yrs,"$125,000","$125,000",--,--
+AT&T,"Los Angeles, CA",Employee as of 03/13/2023,Remote,1 yrs,5 yrs,"$200,000","$150,000","$30,000","$20,000"
+Hawaiian Airlines,"Honolulu, HI",Employee as of 03/13/2023,Office,1 yrs,3 yrs,"$90,000","$85,000",--,"$5,000"
+Block,"New York, NY",Employee as of 03/13/2023,Hybrid,2 yrs,3 yrs,"$160,500","$135,500","$25,000",--
+Airbnb,"San Francisco, CA",Employee as of 03/13/2023,Remote,3 yrs,8 yrs,"$283,000","$185,000","$98,000",--
+hidden,"Santa Monica, CA",Employee as of 03/13/2023,Remote,2 yrs,4 yrs,"$83,400","$83,400",--,--
+UPMC,"Pittsburgh, PA",Employee as of 03/13/2023,Hybrid,5 yrs,15 yrs,"$80,000","$80,000",--,--
+Cornerstone Research,"Washington, DC",Employee as of 03/13/2023,Hybrid,2 yrs,2 yrs,"$118,250","$107,500",--,"$10,750"
+Wayfair,"Boston, MA",Employee as of 03/13/2023,Hybrid,5 yrs,5 yrs,"$157,000","$130,000","$27,000",--
+Gap,"New York, NY",Employee as of 03/12/2023,Hybrid,4 yrs,10 yrs,"$95,000","$95,000",--,--
+CarMax,"Richmond, VA",Employee as of 03/12/2023,Hybrid,1 yrs,6 yrs,"$117,000","$100,000","$7,000","$10,000"
+Marathon Petroleum,"Findlay, OH",Employee as of 03/12/2023,Hybrid,11 yrs,11 yrs,"$132,000","$120,000",--,"$12,000"
+Google,"San Francisco, CA",Employee as of 03/12/2023,Office,1 yrs,4 yrs,"$202,000","$140,000","$41,000","$21,000"
+McKinsey,"New York, NY",Offer from 03/12/2023,Office,0 yrs,0 yrs,"$133,250","$112,000",--,"$21,250"
+Amazon,"Seattle, WA",Employee as of 03/11/2023,Office,3 yrs,6 yrs,"$120,000","$120,000",--,--
+Comcast,"Philadelphia, PA",Employee as of 03/11/2023,Remote,1 yrs,3 yrs,"$107,300","$99,300",--,"$8,000"
+General Motors,"Detroit, MI",Employee as of 03/11/2023,Office,1 yrs,3 yrs,"$110,000","$110,000",--,--
+Waystar,"Denver, CO",Employee as of 03/11/2023,Remote,11 yrs,19 yrs,"$122,000","$111,000",--,"$11,000"
+General Motors,"Detroit, MI",Employee as of 03/11/2023,Hybrid,0 yrs,3 yrs,"$110,000","$100,000",--,"$10,000"
+Google,"Miami, FL",Employee as of 03/10/2023,Hybrid,5 yrs,7 yrs,"$315,000","$180,000","$100,000","$35,000"
+Guidehouse,"Washington, DC",Employee as of 03/10/2023,Remote,2 yrs,4 yrs,"$68,000","$65,000",--,"$3,000"
+Nordstrom,"Seattle, WA",Employee as of 03/10/2023,Remote,4 yrs,10 yrs,"$115,000","$115,000",--,--
+hidden,"New York, NY",Employee as of 03/10/2023,Hybrid,2-4 yrs,2-4 yrs,"$110,000","$100,000",--,"$10,000"
+Healthfirst,"New York, NY",Employee as of 03/10/2023,Remote,0 yr,1 yr,"$93,000","$90,000",--,"$3,000"
+Amazon,"Boston, MA",Offer from 03/10/2023,Office,0 yrs,4 yrs,"$140,000","$140,000",--,--
+"University of Nevada, Reno","Reno, NV",Employee as of 03/09/2023,Office,1 yr,1 yr,"$64,000","$64,000",--,--
+Prime Healthcare,"Ontario, CA",Employee as of 03/09/2023,Office,2 yrs,2 yrs,"$76,128","$76,128",--,--
+IBM,"Charlotte, NC",Employee as of 03/09/2023,Remote,3 yrs,3 yrs,"$108,500","$108,500",--,--
+Fulton County Schools,"Atlanta, GA",Employee as of 03/09/2023,Office,1 yr,1 yr,"$70,000","$70,000",--,--
+Nationwide,"Scottsdale, AZ",Employee as of 03/09/2023,Office,6 yrs,9 yrs,"$120,000","$120,000",--,--
+Intrado,"Sacramento, CA",Employee as of 03/09/2023,Remote,3 yrs,3 yrs,"$42,016","$42,016",--,--
+CAI,"Chicago, IL",Employee as of 03/09/2023,Office,1 yrs,2 yrs,"$74,000","$74,000",--,--
+Liberty Mutual,"Seattle, WA",Employee as of 03/09/2023,Remote,2 yrs,3 yrs,"$86,250","$81,750",--,"$4,500"
+Ernst and Young,"San Jose, CA",Employee as of 03/09/2023,Hybrid,0 yrs,0 yrs,"$100,000","$95,000",--,"$5,000"
+UBS,"New York, NY",Employee as of 03/09/2023,Office,3 yrs,3 yrs,"$137,000","$120,000",--,"$17,000"
+VanEck,"New York, NY",Employee as of 03/08/2023,Office,1 yr,1 yr,"$120,000","$105,000",--,"$15,000"
+Centene,"Dallas, TX",Offer from 03/08/2023,Remote,0 yrs,8 yrs,"$70,000","$70,000",--,--
+Hagerty consulting,"San Diego, CA",Employee as of 03/08/2023,Office,1 yrs,2 yrs,"$70,000","$70,000",--,--
+Toptal,"New York, NY",Employee as of 03/08/2023,Remote,1 yrs,2 yrs,"$70,000","$70,000",--,--
+American Express,"Phoenix, AZ",Offer from 03/08/2023,Office,0 yr,1 yr,"$80,000","$70,000",--,"$10,000"
+McKinsey,"New York, NY",Employee as of 03/08/2023,Office,3 yrs,3 yrs,"$165,000","$145,000",--,"$20,000"
+Dell Technologies,"San Jose, CA",Employee as of 03/08/2023,Remote,2 yrs,5 yrs,"$95,000","$92,000",--,"$3,000"
+Amazon,"Washington, DC",Employee as of 03/08/2023,Remote,1 yrs,10 yrs,"$190,000","$150,000","$22,500","$17,500"
+MidPen Housing Co,"Foster City, CA",Employee as of 03/08/2023,Hybrid,1 yrs,3 yrs,"$110,000","$107,000",--,"$3,000"
+Cerner,"Kansas City, MO",Employee as of 03/08/2023,Remote,2 yrs,3 yrs,"$69,000","$69,000",--,--
+MTX Group,"Arlington Heights, IL",Employee as of 03/08/2023,Remote,1 yrs,4 yrs,"$125,000","$125,000",--,--
+YoungWilliams,"Ridgeland, MS",Employee as of 03/08/2023,Office,6 yrs,6 yrs,"$100,000","$100,000",--,--
+Google,"San Francisco, CA",Employee as of 03/08/2023,Office,2 yrs,5 yrs,"$199,000","$149,000","$35,000","$15,000"
+hidden,"Austin, TX",Employee as of 03/07/2023,Remote,0-1 yrs,0-1 yrs,"$80,000","$65,000","$5,000","$10,000"
+Ernst and Young,"Atlanta, GA",Employee as of 03/07/2023,Office,3 yrs,3 yrs,"$121,000","$105,000",--,"$16,000"
+hidden,"Ann Arbor, MI",Employee as of 03/07/2023,Office,2 yrs,2 yrs,"$104,100","$104,100",--,--
+USAA,"San Antonio, TX",Employee as of 03/07/2023,Remote,0-1 yrs,2-4 yrs,"$98,000","$86,000",--,"$12,000"
+hidden,"New York, NY",Employee as of 03/07/2023,Remote,2-4 yrs,2-4 yrs,"$92,500","$87,500",--,"$5,000"
+Equifax,Atlanta,Employee as of 03/07/2023,Hybrid,0-1 yrs,0-1 yrs,"$80,000","$80,000",--,--
+Blue Bridge Financial,"Reston, VA",Employee as of 03/06/2023,Office,1 yr,1 yr,"$60,000","$60,000",--,--
+Datadog,"New York, NY",Employee as of 03/06/2023,Hybrid,2 yrs,5 yrs,"$130,000","$115,000","$15,000",--
+Color,"Burlingame, CA",Employee as of 03/06/2023,Office,3 yrs,3 yrs,"$115,000","$115,000",--,--
+Accenture,"Detroit, MI",Offer from 03/06/2023,Office,0 yrs,0 yrs,"$83,000","$83,000",--,--
+Wayfair,"Boston, MA",Employee as of 03/06/2023,Hybrid,4 yrs,5 yrs,"$150,000","$125,000","$10,000","$15,000"
+Google,"Los Angeles, CA",Employee as of 03/06/2023,Remote,3 yrs,5 yrs,"$151,000","$151,000",--,--
+Zinus,"Los Angeles, CA",Employee as of 03/06/2023,Office,2 yrs,2 yrs,"$50,000","$50,000",--,--
+Cigna,"Nashville, TN",Employee as of 03/06/2023,Remote,1 yrs,8 yrs,"$86,000","$85,000",--,"$1,000"
+VMware,"San Francisco, CA",Employee as of 03/05/2023,Remote,2 yrs,2 yrs,"$97,500","$87,500",--,"$10,000"
+Santander Bank,"Boston, MA",Employee as of 03/05/2023,Office,4 yrs,7 yrs,"$150,000","$150,000",--,--
+EXL,"New York, NY",Employee as of 03/05/2023,Remote,2 yrs,10 yrs,"$143,000","$130,000",--,"$13,000"
+Citi,"Tampa, FL",Employee as of 03/05/2023,Office,3 yrs,7 yrs,"$137,000","$137,000",--,--
+Wayfair,"Boston, MA",Employee as of 03/04/2023,Hybrid,5 yrs,8 yrs,"$155,000","$123,000","$22,000","$10,000"
+AdventHealth,"Orlando, FL",Employee as of 03/04/2023,Office,2 yrs,4 yrs,"$87,360","$87,360",--,--
+HPE,"San Jose, CA",Employee as of 03/04/2023,Remote,6 yrs,34 yrs,"$160,000","$150,000",--,"$10,000"
+ICW Group,"San Diego, CA",Employee as of 03/04/2023,Hybrid,5 yrs,5 yrs,"$94,330","$87,330",--,"$7,000"
+H-E-B,"San Antonio, TX",Employee as of 03/03/2023,Hybrid,9 yrs,9 yrs,"$80,300","$73,000",--,"$7,300"
+JPMorgan Chase,"Newark, DE",Employee as of 03/03/2023,Hybrid,2 yrs,7 yrs,"$69,500","$68,000",--,"$1,500"
+Apple,"Austin, TX",Employee as of 03/03/2023,Hybrid,5 yrs,9 yrs,"$167,000","$125,000","$30,000","$12,000"
+Amgen,"Thousand Oaks, CA",Employee as of 03/03/2023,Office,2 yrs,3 yrs,"$113,000","$100,000","$3,000","$10,000"
+Edupoint Educational Systems,"Mesa, AZ",Employee as of 03/03/2023,Hybrid,3 yrs,10 yrs,"$69,000","$69,000",--,--
+Amazon,"Seattle, WA",Employee as of 03/03/2023,Office,1 yrs,4 yrs,"$118,000","$118,000",--,--
+Gemini,"New York, NY",Employee as of 03/02/2023,Remote,3 yrs,4 yrs,"$120,000","$120,000",--,--
+Gainwell Technologies,"Madison, WI",Employee as of 03/02/2023,Remote,6 yrs,6 yrs,"$78,200","$78,200",--,--
+Manpower,"Charlotte, NC",Employee as of 03/02/2023,Remote,2 yrs,2 yrs,"$63,000","$58,000",--,"$5,000"
+Weave,"Lehi, UT",Employee as of 03/02/2023,Remote,1 yrs,4 yrs,"$108,350","$98,500",--,"$9,850"
+Mutual of Omaha,"Austin, TX",Employee as of 03/02/2023,Remote,3 yrs,3 yrs,"$71,500","$68,500",--,"$3,000"
+Lockton,"Kansas City, MO",Employee as of 03/02/2023,Hybrid,1 yrs,2 yrs,"$67,000","$63,000",--,"$4,000"
+Avanade,"Chicago, IL",Employee as of 03/02/2023,Remote,2 yrs,10 yrs,"$101,000","$101,000",--,--
+PDI Software,"Philadelphia, PA",Employee as of 03/02/2023,Remote,1 yrs,2 yrs,"$70,000","$70,000",--,--
+hidden,"Houston, TX",Employee as of 03/02/2023,Remote,2 yrs,15 yrs,"$137,000","$137,000",--,--
+Wayfair,"Boston, MA",Employee as of 03/02/2023,Hybrid,4 yrs,4 yrs,"$115,000","$115,000",--,--
+Power & Tel,"Collierville, TN",Employee as of 03/02/2023,Office,0 yrs,0 yrs,"$70,000","$68,000",--,"$2,000"
+Scholastic,"New York, NY",Employee as of 03/01/2023,Remote,1 yr,1 yr,"$86,600","$86,600",--,--
+Amazon,"Seattle, WA",Employee as of 03/01/2023,Remote,3 yrs,3 yrs,"$112,500","$102,500","$10,000",--
+hidden,"Los Angeles, CA",Employee as of 03/01/2023,Office,1 yrs,2 yrs,"$82,000","$82,000",--,--
+hidden,"New York, NY",Employee as of 03/01/2023,Remote,0 yrs,5 yrs,"$160,000","$160,000",--,--
+FOX,"Charleston, SC",Employee as of 03/01/2023,Remote,1 yrs,5 yrs,"$133,300","$124,000",--,"$9,300"
+Billtrust,"Washington, DC",Employee as of 03/01/2023,Remote,1 yrs,3 yrs,"$78,750","$75,000",--,"$3,750"
+Google,"Mountain View, CA",Employee as of 03/01/2023,Hybrid,4 yrs,20 yrs,"$355,000","$225,000","$80,000","$50,000"
+Optum,"Denver, CO",Offer from 03/01/2023,Remote,0 yrs,7 yrs,"$101,588","$94,500",--,"$7,088"
+Dispel,"New York, NY",Offer from 02/28/2023,Hybrid,0 yrs,0 yrs,"$77,000","$77,000",--,--
+IBM,"Los Angeles, CA",Employee as of 02/28/2023,Hybrid,1 yr,1 yr,"$104,000","$104,000",--,--
+Whirlpool,"Benton Harbor, MI",Employee as of 02/28/2023,Office,3 yrs,4 yrs,"$90,000","$75,000",--,"$15,000"
+hidden,"Davis, CA",Employee as of 02/28/2023,Office,5-10 yrs,5-10 yrs,"$70,000","$70,000",--,--
+Amazon,"Seattle, WA",Employee as of 02/28/2023,Remote,2 yrs,12 yrs,"$205,000","$165,000","$40,000",--
+Marsh & McLennan Companies,"New York, NY",Employee as of 02/28/2023,Hybrid,1 yrs,4 yrs,"$110,000","$100,000",--,"$10,000"
+Cage Point,"New York, NY",Employee as of 02/28/2023,Hybrid,1 yr,1 yr,"$60,000","$60,000",--,--
+Facebook,"San Francisco, CA",Employee as of 02/28/2023,Office,1 yrs,8 yrs,"$216,000","$173,000","$18,000","$25,000"
+hidden,"New York, NY",Employee as of 02/28/2023,Remote,0-1 yrs,2-4 yrs,"$105,000","$105,000",--,--
+H-E-B,"San Antonio, TX",Employee as of 02/28/2023,Hybrid,1 yrs,2 yrs,"$77,000","$70,000",--,"$7,000"
+Walmart,"San Bruno, CA",Employee as of 02/28/2023,Office,2 yrs,2 yrs,"$133,000","$110,000","$5,000","$18,000"
+SimpliSafe,"Boston, MA",Employee as of 02/28/2023,Office,0 yrs,8 yrs,"$121,000","$110,000",--,"$11,000"
+DoorDash,"New York, NY",Employee as of 02/27/2023,Office,1 yrs,3 yrs,"$190,000","$150,000","$40,000",--
+Pacific Gas & Electric,San Francisco Bay Area,Employee as of 02/27/2023,Hybrid,2 yrs,6 yrs,"$101,000","$93,000",--,"$8,000"
+Capital One,"Washington, DC",Employee as of 02/27/2023,Remote,1 yrs,6 yrs,"$165,000","$150,000",--,"$15,000"
+Stripe,"Portland, OR",Employee as of 02/27/2023,Remote,2 yrs,7 yrs,"$167,350","$118,500","$37,000","$11,850"
+Neuberger Berman,"New York, NY",Employee as of 02/27/2023,Office,1 yr,1 yr,"$118,000","$103,000",--,"$15,000"
+Spectrum,"St. Louis, MO",Employee as of 02/27/2023,Office,1 yrs,2 yrs,"$91,000","$83,000",--,"$8,000"
+FIS,"Tampa, FL",Employee as of 02/27/2023,Office,6 yrs,6 yrs,"$101,000","$101,000",--,--
+ByteDance,"Seattle, WA",Offer from 02/27/2023,Office,0 yrs,37 yrs,"$194,375","$150,000","$19,375",y1
+Merck,"Austin, TX",Employee as of 02/27/2023,Remote,5 yrs,15 yrs,"$168,430","$143,430",--,"$25,000"
+IBM,"Columbus, OH",Employee as of 02/27/2023,Office,1 yrs,2 yrs,"$50,000","$50,000",--,--
+Amazon,"New York, NY",Employee as of 02/27/2023,Hybrid,1 yrs,7 yrs,"$137,500","$110,000","$15,000","$12,500"
+General Motors,"Austin, TX",Employee as of 02/26/2023,Office,1 yr,1 yr,"$84,000","$84,000",--,--
+Financial Institution,"Los Angeles, CA",Employee as of 02/26/2023,Office,1 yr,1 yr,"$60,000","$60,000",--,--
+Accenture,"Philadelphia, PA",Employee as of 02/26/2023,Office,2 yrs,2 yrs,"$87,500","$87,500",--,--
+Facebook,"Austin, TX",Employee as of 02/26/2023,Office,3 yrs,5 yrs,"$120,059","$101,563","$8,407","$10,089"
+First Republic Bank,"San Francisco, CA",Employee as of 02/25/2023,Hybrid,7 yrs,8 yrs,"$340,000","$210,000","$55,000","$75,000"
+Nordstrom,"Seattle, WA",Offer from 02/25/2023,Remote,0 yrs,3 yrs,"$87,990","$83,009",--,"$4,981"
+Capital One,"New York, NY",Employee as of 02/25/2023,Hybrid,1 yrs,3 yrs,"$138,000","$128,000",--,"$10,000"
+MetLife,"New York, NY",Employee as of 02/25/2023,Office,30 yrs,30 yrs,"$125,000","$125,000",--,--
+AbbVie,"Chicago, IL",Employee as of 02/25/2023,Hybrid,3 yrs,3 yrs,"$86,000","$82,000",--,"$4,000"
+USAA,"Charlotte, NC",Employee as of 02/25/2023,Remote,1 yrs,7 yrs,"$161,000","$140,000",--,"$21,000"
+State Government,"Olympia, WA",Employee as of 02/24/2023,Hybrid,2 yrs,2 yrs,"$98,000","$98,000",--,--
+Lumen,"Dallas, TX",Employee as of 02/24/2023,Remote,0 yr,1 yr,"$79,960","$76,960",--,"$3,000"
+Gusto,"New York, NY",Employee as of 02/24/2023,Hybrid,1 yrs,7 yrs,"$190,000","$150,000","$40,000",--
+Tesla,"San Francisco, CA",Employee as of 02/24/2023,Office,2-4 yrs,2-4 yrs,"$185,000","$160,000","$25,000",--
+Capital One,"Mc Lean, VA",Employee as of 02/24/2023,Hybrid,0 yrs,0 yrs,"$106,000","$106,000",--,--
+Johnson Controls,"Milwaukee, WI",Employee as of 02/24/2023,Remote,3 yrs,4 yrs,"$115,000","$110,000",--,"$5,000"
+Tesla,"Fremont, CA",Employee as of 02/24/2023,Office,5 yrs,10 yrs,"$190,000","$150,000","$40,000",--
+hidden,"Minneapolis, MN",Employee as of 02/23/2023,Office,2-4 yrs,11+ yrs,"$140,000","$140,000",--,--
+Inovalon,"Bowie, MD",Employee as of 02/23/2023,Remote,3 yrs,5 yrs,"$92,000","$92,000",--,--
+hidden,"Los Angeles, CA",Employee as of 02/23/2023,Hybrid,0-1 yrs,5-10 yrs,"$152,400","$127,000","$12,700","$12,700"
+Cirrus Logic,"Austin, TX",Employee as of 02/23/2023,Hybrid,2 yrs,12 yrs,"$106,500","$91,000","$8,000","$7,500"
+Bank of America,"Atlanta, GA",Employee as of 02/23/2023,Hybrid,0 yrs,2 yrs,"$106,500","$106,500",--,--
+T-Mobile,"Bellevue, WA",Employee as of 02/23/2023,Remote,8 yrs,10 yrs,"$126,400","$101,400","$10,000","$15,000"
+GoDaddy,"New York, NY",Employee as of 02/23/2023,Remote,4 yrs,6 yrs,"$218,250","$155,000","$40,000","$23,250"
+Capgemini,"Houston, TX",Employee as of 02/23/2023,Remote,9 yrs,16 yrs,"$116,600","$106,000",--,"$10,600"
+WebMD Health Services,"New York, NY",Employee as of 02/23/2023,Remote,1 yrs,3 yrs,"$60,000","$60,000",--,--
+Alkermes,"Boston, MA",Employee as of 02/23/2023,Remote,5 yrs,5 yrs,"$128,000","$116,000",--,"$12,000"
+Vitech,"Orlando, FL",Employee as of 02/23/2023,Remote,2 yrs,2 yrs,"$72,000","$72,000",--,--
+Amazon,"Seattle, WA",Employee as of 02/23/2023,Office,1 yrs,3 yrs,"$178,000","$145,000","$3,000","$30,000"
+hidden,"Chicago, IL",Employee as of 02/22/2023,Hybrid,3 yrs,3 yrs,"$69,355","$68,355",--,"$1,000"
+Cohesity,"San Jose, CA",Employee as of 02/22/2023,Office,2 yrs,5 yrs,"$145,000","$145,000",--,--
+GoodRx,"San Francisco, CA",Employee as of 02/22/2023,Office,1 yrs,4 yrs,"$130,000","$110,000","$20,000",--
+Boeing,"Seattle, WA",Employee as of 02/22/2023,Remote,9 yrs,10 yrs,"$126,000","$117,000",--,"$9,000"
+hidden,"San Francisco, CA",Employee as of 02/21/2023,Office,1 yrs,2 yrs,"$100,000","$100,000",--,--
+Visa,"Austin, TX",Employee as of 02/21/2023,Hybrid,2 yrs,4 yrs,"$131,400","$114,000","$6,000","$11,400"
+Omnicell,"Mountain View, CA",Employee as of 02/21/2023,Remote,2 yrs,5 yrs,"$110,000","$110,000",--,--
+Infineon Technologies,"San Francisco, CA",Employee as of 02/21/2023,Office,2 yrs,8 yrs,"$150,000","$130,000",--,"$20,000"
+Morgan and Morgan,"New York, NY",Employee as of 02/21/2023,Hybrid,1 yrs,4 yrs,"$72,500","$70,000",--,"$2,500"
+JPMorgan Chase,"Chicago, IL",Offer from 02/21/2023,Hybrid,0 yrs,3 yrs,"$120,750","$115,000",--,"$5,750"
+eBay,"Austin, TX",Employee as of 02/21/2023,Office,2 yrs,5 yrs,"$109,000","$109,000",--,--
+Prime Heathcare,"Ontario, CA",Employee as of 02/20/2023,Office,2 yrs,3 yrs,"$75,000","$75,000",--,--
+BrainPOP,"New York, NY",Employee as of 02/20/2023,Remote,1 yr,1 yr,"$97,000","$95,000",--,"$2,000"
+3B Staffing,"Mckinney, TX",Employee as of 02/20/2023,Remote,1 yrs,8 yrs,"$85,000","$85,000",--,--
+Amazon,"Seattle, WA",Employee as of 02/20/2023,Office,2 yrs,5 yrs,"$165,000","$140,000","$25,000",--
+hidden,"Foster City, CA",Employee as of 02/20/2023,Hybrid,2-4 yrs,11+ yrs,"$348,000","$235,000","$55,000","$58,000"
+Xaxis,"New York, NY",Employee as of 02/20/2023,Hybrid,1 yrs,2 yrs,"$77,000","$77,000",--,--
+hidden,"Chicago, IL",Employee as of 02/20/2023,Hybrid,2-4 yrs,2-4 yrs,"$70,200","$65,200",--,"$5,000"
+PTC,"Boston, MA",Employee as of 02/20/2023,Hybrid,1 yrs,10 yrs,"$115,000","$115,000",--,--
+Snap Finance,"Salt Lake City, UT",Employee as of 02/20/2023,Hybrid,2 yrs,2 yrs,"$94,000","$94,000",--,--
+HubSpot,"New York, NY",Employee as of 02/20/2023,Remote,0-1 yrs,2-4 yrs,"$133,300","$120,000","$13,300",--
+hidden,"Chicago, IL",Employee as of 02/20/2023,Remote,1 yr,1 yr,"$73,000","$73,000",--,--
+Deloitte,"Dallas, TX",Employee as of 02/20/2023,Hybrid,4 yrs,8 yrs,"$116,000","$106,000",--,"$10,000"
+CommerceHub,"Seattle, WA",Employee as of 02/20/2023,Remote,1 yr,1 yr,"$88,000","$80,000",--,"$8,000"
+Zynga,"Austin, TX",Employee as of 02/19/2023,Office,2 yrs,3 yrs,"$148,500","$115,000","$22,000","$11,500"
+Enverus,"Austin, TX",Employee as of 02/19/2023,Remote,2 yrs,12 yrs,"$378,000","$190,000","$150,000","$38,000"
+AMD,"Austin, TX",Employee as of 02/19/2023,Hybrid,1 yrs,4 yrs,"$137,000","$108,000","$15,000","$14,000"
+The Kraft Heinz Company,"Chicago, IL",Employee as of 02/19/2023,Hybrid,2 yrs,2 yrs,"$90,000","$80,000",--,"$10,000"
+hidden,"Greensboro, NC",Employee as of 02/19/2023,Hybrid,5 yrs,16 yrs,"$96,600","$92,000",--,"$4,600"
+Yale New Haven Health,"New Haven, CT",Employee as of 02/19/2023,Remote,3 yrs,6 yrs,"$130,000","$130,000",--,--
+eBay,"Salt Lake City, UT",Employee as of 02/18/2023,Office,3 yrs,3 yrs,"$80,000","$80,000",--,--
+AT&T,"Dallas, TX",Employee as of 02/18/2023,Hybrid,2 yrs,4 yrs,"$249,600","$124,800",--,--
+hidden,"Los Angeles, CA",Employee as of 02/18/2023,Remote,2-4 yrs,2-4 yrs,"$81,000","$80,000",--,"$1,000"
+Cisco,"Columbus, OH",Employee as of 02/18/2023,Remote,8 yrs,10 yrs,"$143,500","$125,000","$6,000","$12,500"
+Capital One,"West McLean, VA",Employee as of 02/17/2023,Hybrid,2 yrs,4 yrs,"$166,200","$153,000",--,"$13,200"
+Stripe,"San Francisco, CA",Employee as of 02/17/2023,Office,3 yrs,8 yrs,"$310,000","$200,000","$70,000","$40,000"
+Capital One,"New York, NY",Employee as of 02/17/2023,Hybrid,2-4 yrs,5-10 yrs,"$267,000","$240,000",--,"$27,000"
+Customer Value Partners,"Arlington, VA",Employee as of 02/17/2023,Office,3 yrs,3 yrs,"$70,000","$70,000",--,--
+Two Sigma,"Houston, TX",Employee as of 02/17/2023,Hybrid,1 yrs,3 yrs,"$133,000","$115,000",--,"$18,000"
+Millennium,"New York, NY",Employee as of 02/17/2023,Hybrid,3 yrs,7 yrs,"$220,000","$160,000",--,"$60,000"
+Freddie Mac,"West McLean, VA",Employee as of 02/17/2023,Office,2 yrs,2 yrs,"$82,000","$82,000",--,--
+Amazon,"Seattle, WA",Employee as of 02/17/2023,Hybrid,1 yrs,2 yrs,"$108,000","$80,000","$18,000","$10,000"
+Meetup,"New York, NY",Employee as of 02/17/2023,Office,0 yrs,2 yrs,"$110,000","$110,000",--,--
+UBS,"Rochester, NY",Employee as of 02/17/2023,Office,1 yr,1 yr,"$65,000","$65,000",--,--
+Robert Half,"San Ramon, CA",Employee as of 02/16/2023,Remote,7 yrs,7 yrs,"$109,000","$109,000",--,--
+VSP,"Sacramento, CA",Employee as of 02/16/2023,Remote,4 yrs,4 yrs,"$76,000","$76,000",--,--
+Guidehouse,"Texas City, TX",Employee as of 02/16/2023,Remote,4 yrs,7 yrs,"$105,000","$105,000",--,--
+Gap,"Los Angeles, CA",Employee as of 02/16/2023,Remote,1 yrs,6 yrs,"$150,000","$125,000",--,"$25,000"
+PayPal,"San Francisco, CA",Employee as of 02/16/2023,Office,6 yrs,15 yrs,"$300,000","$190,000","$70,000","$40,000"
+AMD,"Austin, TX",Employee as of 02/16/2023,Remote,2 yrs,5 yrs,"$111,500","$95,500","$15,000","$1,000"
+The Home Depot,"Atlanta, GA",Employee as of 02/16/2023,Hybrid,1 yrs,2 yrs,"$85,200","$76,000","$7,000","$2,200"
+Northwell Health,"New York, NY",Employee as of 02/16/2023,Hybrid,1 yr,1 yr,"$82,000","$82,000",--,--
+Salesforce,"Indianapolis, IN",Employee as of 02/16/2023,Hybrid,2 yrs,6 yrs,"$81,400","$74,000",--,"$7,400"
+hidden,"Dallas, TX",Employee as of 02/15/2023,Remote,2-4 yrs,5-10 yrs,"$126,000","$126,000",--,--
+HSBC,"New York, NY",Offer from 02/15/2023,Office,0 yrs,12 yrs,"$250,000","$190,000",--,"$60,000"
+Microsoft,"New York, NY",Offer from 02/15/2023,Office,0 yrs,0 yrs,"$120,000","$120,000",--,--
+hidden,"San Francisco, CA",Employee as of 02/15/2023,Office,2 yrs,3 yrs,"$121,000","$110,000",--,"$11,000"
+hidden,"Franklin, TN",Employee as of 02/15/2023,Hybrid,1 yr,1 yr,"$79,000","$70,000",--,"$9,000"
+PwC,"Seattle, WA",Employee as of 02/15/2023,Office,3 yrs,3 yrs,"$120,000","$80,000","$30,000","$10,000"
+Facebook,"New York, NY",Employee as of 02/14/2023,Office,1 yrs,10 yrs,"$201,500","$175,000",--,"$26,500"
+Redfin,"Seattle, WA",Employee as of 02/14/2023,Hybrid,2 yrs,20 yrs,"$193,500","$133,500","$40,000","$20,000"
+Amazon,"Wisconsin Rapids, WI",Employee as of 02/14/2023,Remote,6 yrs,6 yrs,"$163,995","$104,995","$59,000",--
+Twitter,"New York, NY",Employee as of 02/14/2023,Office,6 yrs,10 yrs,"$274,400","$177,000","$62,000","$35,400"
+IHME,"Seattle, WA",Employee as of 02/14/2023,Remote,2 yrs,3 yrs,"$70,000","$70,000",--,--
+Brookfield Asset Management,"New York, NY",Employee as of 02/14/2023,Office,2 yrs,2 yrs,"$109,250","$95,000",--,"$14,250"
+Square,"Richmond, VA",Employee as of 02/13/2023,Remote,1 yrs,4 yrs,"$129,000","$115,000","$14,000",--
+Snowflake,"San Mateo, CA",Employee as of 02/13/2023,Office,1 yr,1 yr,"$95,000","$95,000",--,--
+Intuit,"Virginia Beach, VA",Employee as of 02/13/2023,Remote,9 yrs,9 yrs,"$225,000","$155,000","$40,000","$30,000"
+Cigna,"Arizona City, AZ",Offer from 02/13/2023,Remote,0 yrs,4 yrs,"$167,500","$150,000",--,"$17,500"
+hidden,"Los Angeles, CA",Offer from 02/13/2023,Office,0 yrs,6 yrs,"$80,000","$80,000",--,--
+PwC,"New York, NY",Employee as of 02/13/2023,Remote,1 yrs,4 yrs,"$103,000","$103,000",--,--
+SAIC,"Washington, DC",Employee as of 02/13/2023,Office,1 yrs,7 yrs,"$110,000","$110,000",--,--
+Central Intelligence Agency,"Washington, DC",Employee as of 02/13/2023,Office,3 yrs,3 yrs,"$115,000","$115,000",--,--
+Walmart,"New York, NY",Employee as of 02/13/2023,Office,2 yrs,2 yrs,"$141,000","$118,000","$5,000","$18,000"
+Disney,"New York, NY",Employee as of 02/13/2023,Hybrid,0 yrs,3 yrs,"$154,333","$113,000","$33,333","$8,000"
+Snowflake,San Francisco Bay Area,Employee as of 02/12/2023,Office,1 yrs,6 yrs,"$189,990","$132,600","$37,500","$19,890"
+Netflix,"Los Angeles, CA",Employee as of 02/12/2023,Office,0 yrs,4 yrs,"$170,000","$170,000",--,--
+Elecnor,"Hartford, CT",Employee as of 02/12/2023,Office,1 yrs,3 yrs,"$74,000","$74,000",--,--
+Wayfair,"Boston, MA",Employee as of 02/12/2023,Hybrid,2 yrs,3 yrs,"$115,000","$115,000",--,--
+Diligent,"Washington, DC",Employee as of 02/12/2023,Remote,3 yrs,3 yrs,"$97,000","$93,000",--,"$4,000"
+JBS SA,"Greeley, CO",Employee as of 02/12/2023,Office,2 yrs,15 yrs,"$97,000","$82,000",--,"$15,000"
+Intuit,"Plano, TX",Employee as of 02/12/2023,Office,3 yrs,6 yrs,"$203,000","$120,000","$65,000","$18,000"
+Capital One,"Richmond, VA",Employee as of 02/11/2023,Hybrid,0 yrs,21 yrs,"$228,793","$188,793",--,"$40,000"
+Global Overview,"Minneapolis, MN",Employee as of 02/11/2023,Hybrid,2 yrs,3 yrs,"$68,250","$65,000",--,"$3,250"
+Block Convey,"New York, NY",Offer from 02/11/2023,Office,0 yrs,2 yrs,"$60,000","$60,000",--,--
+Facebook,"New York, NY",Employee as of 02/11/2023,Hybrid,4 yrs,7 yrs,"$222,000","$185,000","$10,000","$27,000"
+hidden,"Columbus, OH",Employee as of 02/10/2023,Hybrid,2-4 yrs,2-4 yrs,"$80,000","$80,000",--,--
+hidden,"West Lafayette, IN",Employee as of 02/10/2023,Remote,0-1 yrs,2-4 yrs,"$95,000","$80,000",--,"$15,000"
+ServiceNow,"San Francisco, CA",Employee as of 02/10/2023,Office,2 yrs,2 yrs,"$110,000","$110,000",--,--
+Block,"San Francisco, CA",Employee as of 02/10/2023,Remote,0 yrs,3 yrs,"$142,500","$125,000","$17,500",--
+Block,"San Francisco, CA",Employee as of 02/10/2023,Remote,0 yrs,3 yrs,"$142,500","$125,000","$17,500",--
+Citi,"New York, NY",Employee as of 02/10/2023,Office,4 yrs,4 yrs,"$180,000","$160,000",--,"$20,000"
+Aruba,"Austin, TX",Employee as of 02/09/2023,Remote,3 yrs,6 yrs,"$170,143","$141,143","$20,000","$9,000"
+Illumina,"San Diego, CA",Employee as of 02/09/2023,Hybrid,2-4 yrs,5-10 yrs,"$138,240","$128,000",--,"$10,240"
+JetBlue,"Orlando, FL",Employee as of 02/09/2023,Hybrid,7 yrs,7 yrs,"$67,956","$60,000","$7,956",--
+JPMorgan Chase,"Wilmington, DE",Employee as of 02/09/2023,Hybrid,1 yrs,2 yrs,"$85,400","$82,400",--,"$3,000"
+Salesforce,"Dallas, TX",Employee as of 02/09/2023,Remote,3 yrs,10 yrs,"$187,200","$187,200",--,--
+HPE,"Palo Alto, CA",Employee as of 02/09/2023,Remote,2 yrs,2 yrs,"$51,688","$51,688",--,--
+Capital One,"West McLean, VA",Employee as of 02/09/2023,Office,3 yrs,3 yrs,"$172,000","$159,000",--,"$13,000"
+McKinsey,"Boston, MA",Employee as of 02/09/2023,Remote,0 yr,1 yr,"$122,700","$112,700",--,"$10,000"
+Cigna,"Philadelphia, PA",Employee as of 02/08/2023,Remote,0-1 yrs,5-10 yrs,"$130,000","$130,000",--,--
+Syrencloud,"New York, NY",Employee as of 02/08/2023,Remote,2 yrs,7 yrs,"$60,000","$60,000",--,--
+Salesforce,"Atlanta, GA",Employee as of 02/08/2023,Hybrid,5 yrs,12 yrs,"$132,000","$120,000",--,"$12,000"
+Amgen,"Thousand Oaks, CA",Employee as of 02/08/2023,Hybrid,4 yrs,8 yrs,"$129,000","$114,000","$5,000","$10,000"
+"Toast, Inc.","Boston, MA",Employee as of 02/08/2023,Remote,2 yrs,4 yrs,"$193,500","$135,000","$45,000","$13,500"
+hidden,"New York, NY",Employee as of 02/08/2023,Office,2 yrs,7 yrs,"$125,000","$125,000",--,--
+BuildOps,"New York, NY",Employee as of 02/07/2023,Office,1 yr,1 yr,"$44,800","$44,800",--,--
+Rochester Institute of Technology,"Rochester, NY",Employee as of 02/07/2023,Remote,2 yrs,2 yrs,"$63,000","$63,000",--,--
+Indeed,"Austin, TX",Employee as of 02/07/2023,Remote,1 yrs,8 yrs,"$155,500","$125,000","$18,000","$12,500"
+Equifax,"Atlanta, GA",Employee as of 02/07/2023,Hybrid,2 yrs,5 yrs,"$130,000","$115,000",--,"$15,000"
+JPMorgan Chase,"New York, NY",Employee as of 02/07/2023,Hybrid,3 yrs,3 yrs,"$85,000","$70,000",--,"$15,000"
+Equifax,"Atlanta, GA",Employee as of 02/07/2023,Hybrid,2-4 yrs,5-10 yrs,"$130,000","$115,000",--,"$15,000"
+Arcadia,"Boston, MA",Employee as of 02/07/2023,Office,3 yrs,7 yrs,"$170,000","$170,000",--,--
+Amazon,"Seattle, WA",Employee as of 02/07/2023,Hybrid,1 yr,1 yr,"$124,500","$92,500","$3,000","$29,000"
+Milliman,"Chicago, IL",Employee as of 02/06/2023,Hybrid,0 yrs,0 yrs,"$92,500","$80,000",--,"$12,500"
+Capital One,"West McLean, VA",Employee as of 02/06/2023,Office,2 yrs,2 yrs,"$126,600","$120,000",--,"$6,600"
+Stanford Health Care,"Newark, CA",Employee as of 02/06/2023,Hybrid,2 yrs,4 yrs,"$80,000","$80,000",--,--
+Amazon,"Phoenix, AZ",Employee as of 02/06/2023,Remote,4 yrs,10 yrs,"$240,000","$160,000","$80,000",--
+Toyota USA,"Plano, TX",Employee as of 02/06/2023,Office,1 yr,1 yr,"$70,000","$70,000",--,--
+BP,"Houston, TX",Employee as of 02/05/2023,Office,1 yr,1 yr,"$82,000","$82,000",--,--
+Walmart,"Dallas, TX",Employee as of 02/05/2023,Remote,2 yrs,6 yrs,"$124,000","$102,000","$6,000","$16,000"
+Facebook,"Austin, TX",Employee as of 02/05/2023,Office,3 yrs,5 yrs,"$126,000","$104,000","$12,000","$10,000"
+Scale AI,"San Francisco, CA",Employee as of 02/05/2023,Hybrid,1 yrs,5 yrs,"$291,000","$191,000","$100,000",--
+LendKey Technologies,"Duck Creek Village, UT",Employee as of 02/05/2023,Remote,1 yrs,4 yrs,"$80,000","$80,000",--,--
+Wayfair,"Mountain View, CA",Employee as of 02/04/2023,Remote,1 yrs,5 yrs,"$196,000","$196,000",--,--
+Apple,"Sunnyvale, CA",Employee as of 02/04/2023,Office,8 yrs,15 yrs,"$215,000","$165,000","$40,000","$10,000"
+Citi,"Dallas, TX",Offer from 02/04/2023,Hybrid,0 yrs,3 yrs,"$110,000","$110,000",--,--
+Target,"New York, NY",Offer from 02/03/2023,Office,0 yr,1 yr,"$65,000","$65,000",--,--
+ZS,"New York, NY",Employee as of 02/03/2023,Office,2 yrs,3 yrs,"$136,000","$127,000",--,"$9,000"
+hidden,"Los Angeles, CA",Offer from 02/03/2023,Office,0 yrs,3 yrs,"$80,000","$80,000",--,--
+Bass Pro Shops,"Springfield, MO",Employee as of 02/03/2023,Office,2 yrs,5 yrs,"$95,000","$95,000",--,--
+Braze,"New York, NY",Employee as of 02/03/2023,Hybrid,2 yrs,5 yrs,"$182,000","$110,000","$25,000","$47,000"
+Accenture,"Washington, DC",Employee as of 02/03/2023,Remote,2 yrs,2 yrs,"$100,000","$96,000",--,"$4,000"
+Stripe,"Austin, TX",Employee as of 02/03/2023,Remote,1 yrs,9 yrs,"$215,000","$150,000","$50,000","$15,000"
+Wayfair,"Boston, MA",Employee as of 02/03/2023,Hybrid,1 yr,1 yr,"$96,000","$96,000",--,--
+Equitable Financial,"New York, NY",Employee as of 02/03/2023,Hybrid,2 yrs,12 yrs,"$150,000","$135,000",--,"$15,000"
+NPR,"New York, NY",Employee as of 02/03/2023,Remote,1 yrs,3 yrs,"$115,000","$115,000",--,--
+ZS,"Boston, MA",Employee as of 02/03/2023,Hybrid,2 yrs,2 yrs,"$106,000","$98,000",--,"$8,000"
+Tradition,"New York, NY",Employee as of 02/03/2023,Office,1 yr,1 yr,"$55,000","$50,000",--,"$5,000"
+Capital One,"Washington, DC",Employee as of 02/02/2023,Hybrid,0 yrs,0 yrs,"$110,300","$107,000",--,"$3,300"
+Tower Research Capital,"New York, NY",Employee as of 02/02/2023,Office,1 yr,1 yr,"$105,000","$90,000",--,"$15,000"
+The Home Depot,"Atlanta, GA",Employee as of 02/02/2023,Office,2 yrs,2 yrs,"$75,000","$75,000",--,--
+Accenture,"Nashville, TN",Employee as of 02/02/2023,Remote,2 yrs,3 yrs,"$85,500","$84,500",--,"$1,000"
+Atos,"Irvine, CA",Employee as of 02/02/2023,Hybrid,1 yrs,14 yrs,"$135,000","$135,000",--,--
+Insight Global,"Atlanta, GA",Employee as of 02/02/2023,Remote,2 yrs,2 yrs,"$67,500","$67,500",--,--
+Cognizant,"Phoenix, AZ",Employee as of 02/02/2023,Remote,1 yrs,4 yrs,"$78,000","$78,000",--,--
+Christus Health,"Dallas, TX",Employee as of 02/02/2023,Office,4 yrs,6 yrs,"$100,000","$100,000",--,--
+Amazon,"Seattle, WA",Employee as of 02/02/2023,Hybrid,1 yrs,6 yrs,"$133,000","$103,000","$10,000","$20,000"
+Facebook,"Seattle, WA",Employee as of 02/01/2023,Office,1 yrs,2 yrs,"$163,000","$130,000","$20,000","$13,000"
+Government Technology,"San Francisco, CA",Employee as of 02/01/2023,Hybrid,10 yrs,20 yrs,"$180,000","$180,000",--,--
+Duke Health,"Durham, NC",Employee as of 02/01/2023,Hybrid,1 yrs,3 yrs,"$77,500","$72,500",--,"$5,000"
+JPMorgan Chase,"San Antonio, TX",Employee as of 02/01/2023,Hybrid,14 yrs,14 yrs,"$74,100","$74,100",--,--
+CGI,"Arlington, VA",Employee as of 02/01/2023,Remote,2 yrs,2 yrs,"$77,000","$77,000",--,--
+Comcast,"Philadelphia, PA",Employee as of 02/01/2023,Remote,7 yrs,10 yrs,"$94,300","$87,300",--,"$7,000"
+Microsoft,"Seattle, WA",Employee as of 02/01/2023,Office,15 yrs,20 yrs,"$150,000","$150,000",--,--
+Lattice,"San Francisco, CA",Employee as of 02/01/2023,Office,2 yrs,5 yrs,"$140,000","$130,000","$10,000",y1
+Salesforce,"San Francisco, CA",Employee as of 01/31/2023,Office,13 yrs,15 yrs,"$285,000","$205,000","$40,000","$40,000"
+North Highland,"Atlanta, GA",Employee as of 01/31/2023,Office,5 yrs,17 yrs,"$140,000","$128,000",--,"$12,000"
+Datadog,"Boston, MA",Employee as of 01/31/2023,Office,2 yrs,2 yrs,"$70,000","$70,000",--,--
+Scale AI,"San Francisco, CA",Employee as of 01/31/2023,Remote,2 yrs,6 yrs,"$223,000","$160,000","$63,000",y1
+LiveRamp,"Boston, MA",Employee as of 01/31/2023,Remote,1 yrs,6 yrs,"$130,000","$130,000",--,--
+Stellar Health,"New York, NY",Employee as of 01/31/2023,Office,1 yrs,3 yrs,"$112,000","$112,000",--,--
+Facebook,"San Francisco, CA",Employee as of 01/31/2023,Hybrid,1 yrs,6 yrs,"$225,000","$170,000","$30,000","$25,000"
+Atmos Energy,"Dallas, TX",Employee as of 01/31/2023,Remote,2 yrs,3 yrs,"$55,000","$55,000",--,--
+Cisco,"New York, NY",Employee as of 01/31/2023,Remote,0 yr,1 yr,"$98,000","$89,000",--,"$9,000"
+Capital One,"Washington, DC",Employee as of 01/31/2023,Office,4 yrs,4 yrs,"$170,700","$154,000","$3,500","$13,200"
+Amazon,"Chicago, IL",Employee as of 01/31/2023,Remote,0 yrs,4 yrs,"$129,000","$105,000","$2,000","$22,000"
+Accenture,"Washington, DC",Employee as of 01/31/2023,Hybrid,1 yrs,12 yrs,"$102,000","$102,000",--,--
+Cisco,"Jacksonville, FL",Employee as of 01/31/2023,Remote,0 yrs,5 yrs,"$110,000","$110,000",--,--
+Cognizant,"Washington, DC",Employee as of 01/31/2023,Office,0 yr,1 yr,"$90,500","$78,500",--,"$12,000"
+hidden,"New York, NY",Employee as of 01/31/2023,Office,0-1 yrs,0-1 yrs,"$110,000","$110,000",--,--
+Deloitte,"Chicago, IL",Employee as of 01/30/2023,Office,2 yrs,4 yrs,"$96,000","$96,000",--,--
+Upstart,"San Mateo, CA",Employee as of 01/30/2023,Office,3 yrs,4 yrs,"$102,000","$102,000",--,--
+Capital One,"New York, NY",Employee as of 01/30/2023,Office,1 yrs,3 yrs,"$130,000","$130,000",--,--
+Zendesk,"Seattle, WA",Employee as of 01/30/2023,Remote,2 yrs,4 yrs,"$105,000","$100,000",--,"$5,000"
+Amazon,"Philadelphia, PA",Employee as of 01/30/2023,Office,5 yrs,5 yrs,"$123,490","$123,490",--,--
+Capital One,"Plano, TX",Employee as of 01/30/2023,Remote,2 yrs,2 yrs,"$168,000","$144,000",--,"$24,000"
+Amazon,"Austin, TX",Employee as of 01/30/2023,Office,2 yrs,7 yrs,"$318,000","$136,000","$100,000","$82,000"
+LinkedIn,"New York, NY",Employee as of 01/30/2023,Hybrid,0 yrs,5 yrs,"$221,000","$160,000","$45,000","$16,000"
+Capital One,"West McLean, VA",Employee as of 01/30/2023,Hybrid,1 yr,1 yr,"$115,000","$110,000",--,"$5,000"
+Capital One,"Washington, DC",Employee as of 01/30/2023,Hybrid,1 yrs,7 yrs,"$166,375","$150,000","$3,375","$13,000"
+Intuit,"Plano, TX",Employee as of 01/30/2023,Office,2 yrs,8 yrs,"$200,000","$115,000","$70,000","$15,000"
+DoorDash,"Los Angeles, CA",Employee as of 01/30/2023,Remote,1 yr,1 yr,"$71,000","$71,000",--,--
+Capital One,"West McLean, VA",Employee as of 01/30/2023,Hybrid,1 yrs,2 yrs,"$123,000","$118,000",--,"$5,000"
+JPMorgan Chase,"Plano, TX",Employee as of 01/29/2023,Hybrid,5 yrs,5 yrs,"$66,000","$65,000",--,"$1,000"
+PennyMac Loan Services,"Raleigh, NC",Employee as of 01/29/2023,Office,1 yrs,2 yrs,"$57,750","$55,000",--,"$2,750"
+Charles Schwab,"San Francisco, CA",Employee as of 01/29/2023,Office,3 yrs,10 yrs,"$140,000","$140,000",--,--
+Truist Financial Corporation,"Atlanta, GA",Employee as of 01/29/2023,Remote,3 yrs,10 yrs,"$121,000","$110,000",--,"$11,000"
+LendingClub,"San Francisco, CA",Employee as of 01/29/2023,Office,2 yrs,7 yrs,"$335,000","$180,000","$110,000","$45,000"
+EXL,"New York, NY",Offer from 01/29/2023,Office,0 yr,1 yr,"$90,000","$90,000",--,--
+hidden,"Fort Wayne, IN",Employee as of 01/28/2023,Hybrid,10 yrs,10 yrs,"$72,000","$63,000",--,"$9,000"
+Caterpillar,"Peoria, IL",Employee as of 01/28/2023,Hybrid,1 yr,1 yr,"$124,000","$102,000",--,"$22,000"
+Aerojet Rocketdyne,"West Palm Beach, FL",Employee as of 01/28/2023,Hybrid,1 yr,1 yr,"$65,000","$65,000",--,--
+hidden,"New York, NY",Offer from 01/28/2023,Hybrid,0 yrs,0 yrs,"$115,000","$115,000",--,--
+Innovative Office Solutions,"Minneapolis, MN",Employee as of 01/27/2023,Remote,2 yrs,6 yrs,"$90,000","$90,000",--,--
+hidden,"South San Francisco, CA",Employee as of 01/27/2023,Remote,0-1 yrs,5-10 yrs,"$204,750","$135,000","$69,750",y1
+Walmart,"New York, NY",Offer from 01/27/2023,Office,0 yrs,2 yrs,"$56,000","$56,000",--,--
+Walmart,"Bentonville, AR",Employee as of 01/27/2023,Hybrid,10 yrs,10 yrs,"$115,000","$86,000","$15,000","$14,000"
+NPO,"Milwaukee, WI",Employee as of 01/27/2023,Office,1 yrs,2 yrs,"$75,000","$75,000",--,--
+Gainwell Technologies,"Newark, DE",Employee as of 01/27/2023,Hybrid,1 yr,1 yr,"$60,000","$60,000",--,--
+Walmart,"Bentonville, AR",Employee as of 01/27/2023,Hybrid,5-10 yrs,5-10 yrs,"$116,600","$86,000","$15,000","$15,600"
+Cisco,"Raleigh, NC",Employee as of 01/27/2023,Remote,1 yr,1 yr,"$86,000","$86,000",--,--
+Allstate,"Chicago, IL",Employee as of 01/27/2023,Remote,7 yrs,7 yrs,"$82,600","$82,600",--,--
+Amazon,"Seattle, WA",Employee as of 01/27/2023,Remote,2 yrs,4 yrs,"$136,000","$96,000","$20,000","$20,000"
+Cisco,"Dallas, TX",Employee as of 01/27/2023,Office,2 yrs,3 yrs,"$90,000","$90,000",--,--
+Afiniti,"Washington, DC",Employee as of 01/26/2023,Office,7 yrs,7 yrs,"$78,000","$78,000",--,--
+Medtronic,"Minneapolis, MN",Employee as of 01/26/2023,Hybrid,1 yrs,8 yrs,"$86,500","$86,500",--,--
+Allegion,"Indianapolis, IN",Employee as of 01/26/2023,Remote,0 yrs,8 yrs,"$137,500","$125,000",--,"$12,500"
+Capital One,"Richmond, VA",Employee as of 01/26/2023,Hybrid,0 yrs,0 yrs,"$90,000","$87,000",--,"$3,000"
+Jack Henry & Associates,"King of Prussia, PA",Employee as of 01/26/2023,Hybrid,3 yrs,4 yrs,"$79,000","$74,000",--,"$5,000"
+hidden,"Boston, MA",Employee as of 01/26/2023,Remote,5-10 yrs,11+ yrs,"$150,000","$150,000",--,--
+Comcast,"Philadelphia, PA",Employee as of 01/26/2023,Remote,2-4 yrs,5-10 yrs,"$105,000","$105,000",--,--
+International Paper,"Memphis, TN",Employee as of 01/26/2023,Hybrid,0 yrs,0 yrs,"$81,000","$75,000",--,"$6,000"
+Wayfair,"Boston, MA",Employee as of 01/26/2023,Office,1 yrs,3 yrs,"$125,000","$125,000",--,--
+Inovalon,"Bowie, MD",Employee as of 01/26/2023,Remote,8 yrs,8 yrs,"$97,500","$97,500",--,--
+Slalom,"Houston, TX",Employee as of 01/26/2023,Office,1 yrs,2 yrs,"$112,000","$112,000",--,--
+Coalition,"Los Angeles, CA",Employee as of 01/26/2023,Remote,0 yrs,7 yrs,"$174,000","$150,000",--,y1
+General Motors,"Detroit, MI",Employee as of 01/26/2023,Hybrid,5 yrs,7 yrs,"$102,500","$93,000",--,"$9,500"
+Chase,"Miami, FL",Employee as of 01/26/2023,Office,21 yrs,21 yrs,"$70,000","$70,000",--,--
+Huntington National Bank,"Chicago, IL",Employee as of 01/26/2023,Remote,1 yr,1 yr,"$90,000","$80,000",--,"$10,000"
+IQVIA,"Philadelphia, PA",Offer from 01/25/2023,Office,0 yrs,0 yrs,"$91,250","$90,000",--,"$1,250"
+Barclays,"Whippany, NJ",Employee as of 01/25/2023,Hybrid,1 yrs,3 yrs,"$95,000","$95,000",--,--
+Infineon Technologies,"Boston, MA",Employee as of 01/25/2023,Hybrid,1 yrs,8 yrs,"$132,000","$120,000",--,"$12,000"
+Spectrum,"Los Angeles, CA",Employee as of 01/25/2023,Hybrid,0 yrs,4 yrs,"$88,000","$80,000",--,"$8,000"
+Verily,"Boston, MA",Employee as of 01/25/2023,Hybrid,5 yrs,15 yrs,"$275,500","$190,000","$47,500","$38,000"
+USAA,"San Antonio, TX",Employee as of 01/25/2023,Office,1 yrs,3 yrs,"$82,000","$82,000",--,--
+Fidelity Investments,"Dallas, TX",Employee as of 01/25/2023,Hybrid,9 yrs,20 yrs,"$162,630","$130,000",--,"$32,630"
+Deloitte,"Fairfax, VA",Employee as of 01/25/2023,Hybrid,1 yr,1 yr,"$100,000","$100,000",--,--
+Johnson & Johnson,"New York, NY",Employee as of 01/25/2023,Remote,1 yrs,3 yrs,"$176,800","$176,800",--,--
+Google,"San Francisco, CA",Employee as of 01/25/2023,Office,1 yrs,5 yrs,"$150,000","$150,000",--,--
+IQVIA,"Wayne, PA",Employee as of 01/25/2023,Hybrid,3 yrs,7 yrs,"$87,760","$81,760",--,"$6,000"
+World Wide Technology,"St. Louis, MO",Employee as of 01/25/2023,Remote,5 yrs,10 yrs,"$101,700","$99,700",--,"$2,000"
+Wayfair,"Boston, MA",Employee as of 01/25/2023,Office,2 yrs,10 yrs,"$366,000","$180,000","$150,000","$36,000"
+Amazon,"Seattle, WA",Employee as of 01/25/2023,Office,1 yrs,4 yrs,"$140,000","$140,000",--,--
+Dell Technologies,"Atlanta, GA",Employee as of 01/25/2023,Remote,1 yr,1 yr,"$41,600","$40,000",--,"$1,600"
+ByteDance,"Los Angeles, CA",Employee as of 01/24/2023,Office,2 yrs,2 yrs,"$160,000","$160,000",--,--
+T-Mobile,"Bellevue, WA",Offer from 01/24/2023,Hybrid,0 yrs,10 yrs,"$106,000","$105,000","$1,000",y1
+Guidehouse,"Springfield, VA",Employee as of 01/24/2023,Hybrid,0 yrs,2 yrs,"$125,000","$125,000",--,--
+hidden,"Savannah, GA",Employee as of 01/24/2023,Remote,0-1 yrs,0-1 yrs,"$31,200","$31,200",--,--
+Eco Plumbers,"Columbus, OH",Employee as of 01/24/2023,Office,1 yr,1 yr,"$60,000","$60,000",--,--
+C.H. Robinson,"Eden Prairie, MN",Employee as of 01/24/2023,Remote,3 yrs,7 yrs,"$105,000","$105,000",--,--
+JPMorgan Chase,"San Antonio, TX",Employee as of 01/24/2023,Office,0 yrs,3 yrs,"$92,000","$92,000",--,--
+Ernst and Young,"Atlanta, GA",Employee as of 01/24/2023,Remote,4 yrs,4 yrs,"$120,500","$113,000",--,"$7,500"
+Google,"New York, NY",Employee as of 01/24/2023,Office,2 yrs,10 yrs,"$266,000","$189,000","$49,000","$28,000"
+Avanade,"Los Angeles, CA",Employee as of 01/24/2023,Remote,2 yrs,4 yrs,"$164,000","$150,000",--,"$14,000"
+Facebook,"Menlo Park, CA",Employee as of 01/23/2023,Office,1 yrs,4 yrs,"$160,000","$160,000",--,--
+CGI Federal,"Fairfax, VA",Employee as of 01/23/2023,Remote,2 yrs,2 yrs,"$91,000","$91,000",--,--
+Best Buy,"Bloomington, MN",Employee as of 01/23/2023,Office,3 yrs,3 yrs,"$99,000","$90,000",--,"$9,000"
+hidden,"San Diego, CA",Employee as of 01/23/2023,Remote,1 yrs,2 yrs,"$105,000","$100,000",--,"$5,000"
+JPMorgan Chase,"New York, NY",Employee as of 01/23/2023,Hybrid,2 yrs,2 yrs,"$86,000","$80,000",--,--
+JPMorgan Chase,"Chicago, IL",Employee as of 01/23/2023,Hybrid,2 yrs,8 yrs,"$159,000","$138,000",--,"$21,000"
+Alvaria,"Austin, TX",Employee as of 01/23/2023,Remote,4 yrs,4 yrs,"$80,000","$80,000",--,--
+Citi,"Tampa, FL",Employee as of 01/23/2023,Office,2 yrs,2 yrs,"$60,000","$60,000",--,--
+hidden,"Dublin, CA",Employee as of 01/23/2023,Hybrid,0-1 yrs,0-1 yrs,"$77,500","$72,500",--,"$5,000"
+Diversified Insurance,"Salt Lake City, UT",Employee as of 01/23/2023,Hybrid,2 yrs,2 yrs,"$59,000","$56,000",--,"$3,000"
+AbbVie,"North Chicago, IL",Employee as of 01/23/2023,Office,4 yrs,6 yrs,"$90,000","$83,000",--,"$7,000"
+hidden,"Santa Clara, CA",Employee as of 01/23/2023,Hybrid,5-10 yrs,11+ yrs,"$300,000","$300,000",--,--
+Cisco,"Raleigh, NC",Employee as of 01/23/2023,Hybrid,2 yrs,2 yrs,"$80,000","$76,000",--,"$4,000"
+Accenture,"Arlington, VA",Employee as of 01/23/2023,Remote,1 yr,1 yr,"$68,000","$68,000",--,--
+GoDadd,"San Francisco, CA",Employee as of 01/23/2023,Remote,3 yrs,7 yrs,"$188,000","$138,000","$50,000",--
+Accenture,"San Jose, CA",Employee as of 01/23/2023,Hybrid,0 yr,1 yr,"$84,000","$80,000",--,"$4,000"
+GoDaddy,"San Francisco, CA",Employee as of 01/22/2023,Remote,3 yrs,6 yrs,"$190,900","$140,900","$50,000",--
+JPMorgan Chase,"Dallas, TX",Employee as of 01/22/2023,Office,3 yrs,7 yrs,"$195,000","$140,000",--,"$55,000"
+ZS,"Chicago, IL",Employee as of 01/22/2023,Office,2 yrs,4 yrs,"$108,000","$99,000",--,"$9,000"
+Accenture,"Atlanta, GA",Employee as of 01/22/2023,Office,2-4 yrs,5-10 yrs,"$92,000","$92,000",--,--
+Amazon,"Tempe, AZ",Employee as of 01/22/2023,Hybrid,1 yrs,2 yrs,"$86,000","$65,000","$21,000",--
+DocuSign,"Dallas, TX",Employee as of 01/22/2023,Remote,1 yrs,20 yrs,"$216,000","$216,000",--,--
+CoStar Group,"Washington, DC",Employee as of 01/22/2023,Office,3 yrs,5 yrs,"$127,000","$116,000",--,"$11,000"
+Barclays,"Whippany, NJ",Employee as of 01/22/2023,Hybrid,2 yrs,3 yrs,"$127,000","$120,000",--,"$7,000"
+Medallia,"New York, NY",Employee as of 01/21/2023,Remote,1 yrs,2 yrs,"$88,000","$80,000",--,"$8,000"
+Las Vegas Valley Water District,"Las Vegas, NV",Employee as of 01/21/2023,Hybrid,1 yrs,2 yrs,"$90,798","$85,798",--,"$5,000"
+NinjaTrader,"Chicago, IL",Offer from 01/21/2023,Remote,0 yrs,4 yrs,"$130,000","$120,000",--,"$10,000"
+Equifax,"St. Louis, MO",Employee as of 01/20/2023,Hybrid,1 yrs,5 yrs,"$115,000","$110,000",--,"$5,000"
+Rapid7,"Boston, MA",Employee as of 01/20/2023,Office,1 yrs,2 yrs,"$80,000","$80,000",--,--
+NYC Health + Hospitals,"New York, NY",Employee as of 01/20/2023,Hybrid,5 yrs,7 yrs,"$125,000","$125,000",--,--
+Attentive,"New York, NY",Employee as of 01/20/2023,Remote,0-1 yrs,2-4 yrs,"$104,000","$100,000","$4,000",--
+Deloitte,"Arlington, VA",Employee as of 01/20/2023,Office,2 yrs,10 yrs,"$105,000","$105,000",--,--
+Walgreens Boots Alliance,"Chicago, IL",Employee as of 01/19/2023,Remote,2 yrs,3 yrs,"$76,320","$72,000",--,"$4,320"
+Deloitte,"Boston, MA",Employee as of 01/19/2023,Office,1 yr,1 yr,"$90,000","$90,000",--,--
+Amazon,"Seattle, WA",Employee as of 01/19/2023,Office,1 yr,1 yr,"$132,000","$90,000","$2,000","$40,000"
+hidden,"New York, NY",Employee as of 01/19/2023,Hybrid,2-4 yrs,2-4 yrs,"$77,000","$77,000",--,--
+T. Rowe Price,"Owings Mills, MD",Employee as of 01/19/2023,Hybrid,2 yrs,10 yrs,"$120,000","$120,000",--,--
+BDO,"Houston, TX",Employee as of 01/19/2023,Hybrid,2 yrs,4 yrs,"$120,000","$120,000",--,--
+McKinsey,"San Francisco, CA",Employee as of 01/19/2023,Hybrid,2 yrs,2 yrs,"$180,000","$150,000",--,"$30,000"
+Slalom,"Chicago, IL",Employee as of 01/19/2023,Hybrid,2 yrs,2 yrs,"$103,680","$96,000",--,"$7,680"
+A Place For Mom,"Overland Park, KS",Employee as of 01/19/2023,Remote,1 yrs,2 yrs,"$82,500","$75,000",--,"$7,500"
+naviHealth,"Nashville, TN",Employee as of 01/19/2023,Remote,1 yrs,3 yrs,"$91,000","$86,000",--,"$5,000"
+RTB House,"Dallas, TX",Offer from 01/18/2023,Office,0 yr,1 yr,"$60,000","$60,000",--,--
+Valera Health,"New York, NY",Employee as of 01/18/2023,Remote,1 yrs,5 yrs,"$129,000","$120,000",--,"$9,000"
+Bloomberg,"Princeton, NJ",Employee as of 01/18/2023,Hybrid,2-4 yrs,2-4 yrs,"$80,000","$80,000",--,--
+Intuit,"Mountain View, CA",Employee as of 01/18/2023,Office,2 yrs,3 yrs,"$210,000","$150,000","$40,000","$20,000"
+Goldman Sachs,"New York, NY",Employee as of 01/18/2023,Office,1 yr,1 yr,"$110,000","$90,000",--,"$20,000"
+Zillow,"Lincoln, NE",Employee as of 01/18/2023,Remote,4 yrs,7 yrs,"$69,000","$69,000",--,--
+hidden,"Verona, WI",Employee as of 01/18/2023,Office,1 yr,1 yr,"$73,000","$70,000",--,"$3,000"
+The New York Times Company,"New York, NY",Offer from 01/18/2023,Remote,0 yrs,4 yrs,"$120,000","$120,000",--,--
+Cigna,"Phoenix, AZ",Employee as of 01/18/2023,Remote,4 yrs,10 yrs,"$132,000","$120,000",--,"$12,000"
+JPMorgan Chase,"New York, NY",Employee as of 01/18/2023,Hybrid,4 yrs,4 yrs,"$90,000","$90,000",--,--
+Capital One,"Chicago, IL",Employee as of 01/17/2023,Office,9 yrs,9 yrs,"$155,000","$155,000",--,--
+Sonepar USA,"Nashville, TN",Employee as of 01/17/2023,Remote,2 yrs,4 yrs,"$70,000","$70,000",--,--
+Capital One,"Washington, DC",Employee as of 01/17/2023,Hybrid,1 yrs,7 yrs,"$150,000","$150,000",--,--
+Capital One,"Plano, TX",Employee as of 01/17/2023,Hybrid,1 yrs,2 yrs,"$110,000","$105,000",--,"$5,000"
+JPMorgan Chase,"Newark, DE",Employee as of 01/17/2023,Hybrid,1 yr,1 yr,"$111,000","$105,000",--,"$6,000"
+MX,"Lehi, UT",Employee as of 01/17/2023,Hybrid,1 yr,1 yr,"$77,000","$72,000",--,"$5,000"
+JPMorgan Chase,"Columbus, OH",Employee as of 01/17/2023,Office,28 yrs,28 yrs,"$94,000","$89,000",--,"$5,000"
+Amazon,"Seattle, WA",Employee as of 01/17/2023,Office,5 yrs,5 yrs,"$130,000","$109,000","$21,000",--
+Amazon,"Los Angeles, CA",Employee as of 01/17/2023,Remote,1 yrs,10 yrs,"$154,000","$120,000","$5,000","$29,000"
+Facebook,"Salt Lake City, UT",Employee as of 01/17/2023,Remote,0 yrs,5 yrs,"$155,000","$125,000","$15,000","$15,000"
+JPMorgan Chase,"Plano, TX",Employee as of 01/16/2023,Hybrid,7 yrs,18 yrs,"$127,000","$122,000",--,"$5,000"
+NASA,"Washington, DC",Employee as of 01/16/2023,Hybrid,1 yrs,5 yrs,"$82,000","$82,000",--,--
+Apollo Global Management,"El Segundo, CA",Employee as of 01/16/2023,Office,1 yrs,4 yrs,"$205,000","$150,000","$5,000","$50,000"
+Accenture,"Dallas, TX",Employee as of 01/16/2023,Remote,2 yrs,2 yrs,"$87,600","$87,600",--,--
+Cigna,"Philadelphia, PA",Employee as of 01/16/2023,Remote,0-1 yrs,5-10 yrs,"$100,000","$97,000",--,"$3,000"
+NewYork-Presbyterian Hospital,"New York, NY",Employee as of 01/16/2023,Hybrid,0 yrs,3 yrs,"$135,000","$130,000",--,"$5,000"
+Renault Group,"Nashville, TN",Employee as of 01/15/2023,Remote,4 yrs,10 yrs,"$115,000","$104,000",--,"$11,000"
+Amazon,"Baltimore, MD",Employee as of 01/15/2023,Remote,1 yrs,3 yrs,"$150,000","$115,000","$20,000","$15,000"
+Microsoft,"Chicago, IL",Offer from 01/15/2023,Office,0 yrs,3 yrs,"$100,000","$100,000",--,--
+Tesla,"Fremont, CA",Offer from 01/15/2023,Office,0 yr,1 yr,"$150,750","$120,000","$17,500",y1
+ZS,"Los Angeles, CA",Employee as of 01/15/2023,Office,2 yrs,5 yrs,"$135,000","$120,000",--,"$15,000"
+Salesforce,"Indianapolis, IN",Employee as of 01/15/2023,Hybrid,2 yrs,10 yrs,"$81,000","$74,000",--,"$7,000"
+Unity,"San Francisco, CA",Employee as of 01/15/2023,Office,3 yrs,4 yrs,"$160,000","$120,000","$40,000",--
+Ernst and Young,"San Diego, CA",Employee as of 01/14/2023,Remote,1 yrs,5 yrs,"$150,000","$150,000",--,--
+Qualtrics,"Seattle, WA",Employee as of 01/14/2023,Hybrid,1 yr,1 yr,"$104,500","$84,000","$12,500","$8,000"
+Tree Top,"Selah, WA",Employee as of 01/14/2023,Hybrid,0 yrs,0 yrs,"$70,000","$70,000",--,--
+hidden,"New York, NY",Offer from 01/13/2023,Hybrid,0 yrs,0 yrs,"$77,000","$70,000",--,"$7,000"
+Boston Scientific,"Minneapolis, MN",Employee as of 01/13/2023,Hybrid,2 yrs,2 yrs,"$78,000","$78,000",--,--
+Samsung,"Plano, TX",Employee as of 01/13/2023,Office,1 yrs,2 yrs,"$70,000","$70,000",--,--
+Honor,"San Francisco, CA",Employee as of 01/13/2023,Remote,1 yrs,2 yrs,"$98,000","$98,000",--,--
+AT&T,"Dallas, TX",Employee as of 01/13/2023,Remote,1 yrs,15 yrs,"$190,400","$170,000",--,"$20,400"
+Delta Air Lines,"Atlanta, GA",Employee as of 01/13/2023,Office,2 yrs,2 yrs,"$39,520","$39,520",--,--
+Ilitch Holdings,"Detroit, MI",Employee as of 01/13/2023,Remote,2 yrs,4 yrs,"$103,000","$103,000",--,--
+HelloFresh,"New York, NY",Employee as of 01/13/2023,Remote,0 yrs,3 yrs,"$95,000","$95,000",--,--
+Quantum Health,"Columbus, OH",Employee as of 01/13/2023,Hybrid,2 yrs,5 yrs,"$95,000","$95,000",--,--
+Amazon,"Seattle, WA",Employee as of 01/12/2023,Office,1 yrs,4 yrs,"$111,000","$111,000",--,--
+Amazon,"Boston, MA",Employee as of 01/12/2023,Remote,1 yr,1 yr,"$123,500","$85,000","$38,500",--
+John Hancock,"Boston, MA",Employee as of 01/12/2023,Office,5 yrs,5 yrs,"$94,000","$94,000",--,--
+Target,"New York, NY",Employee as of 01/12/2023,Remote,0 yrs,0 yrs,"$70,000","$70,000",--,--
+Booz Allen Hamilton,"Washington, DC",Employee as of 01/12/2023,Hybrid,4 yrs,4 yrs,"$105,000","$105,000",--,--
+Accenture,"Chicago, IL",Employee as of 01/12/2023,Office,2 yrs,2 yrs,"$100,000","$100,000",--,--
+Keeco,"Bentonville, AR",Employee as of 01/12/2023,Office,1 yr,1 yr,"$52,000","$52,000",--,--
+Wayfair,"Boston, MA",Employee as of 01/12/2023,Office,2 yrs,4 yrs,"$105,000","$105,000",--,--
+Flexport,"San Francisco, CA",Employee as of 01/11/2023,Office,2 yrs,4 yrs,"$185,000","$150,000","$20,000","$15,000"
+Remitly,"Seattle, WA",Employee as of 01/11/2023,Hybrid,1 yrs,4 yrs,"$190,000","$115,000","$75,000",--
+Grubhub,"Philadelphia, PA",Employee as of 01/11/2023,Remote,2 yrs,2 yrs,"$85,000","$85,000",--,--
+Adobe,"Lehi, UT",Employee as of 01/11/2023,Office,1 yrs,6 yrs,"$148,500","$120,000","$13,500","$15,000"
+One Technologies,"Dallas, TX",Employee as of 01/11/2023,Hybrid,1 yrs,5 yrs,"$85,000","$85,000",--,--
+Capital One,"West McLean, VA",Employee as of 01/11/2023,Office,2 yrs,2 yrs,"$120,000","$105,000",--,"$15,000"
+Okcoin,"San Jose, CA",Employee as of 01/11/2023,Office,1 yrs,10 yrs,"$175,000","$175,000",--,--
+JPMorgan Chase,"New York, NY",Employee as of 01/11/2023,Office,11 yrs,18 yrs,"$137,500","$137,500",--,--
+Northwestern Mutual,"Milwaukee, WI",Employee as of 01/11/2023,Remote,3 yrs,5 yrs,"$121,000","$110,000",--,"$11,000"
+Braze,"New York, NY",Employee as of 01/11/2023,Office,1 yrs,5 yrs,"$126,000","$99,000","$17,000","$10,000"
+Applied Materials,"Santa Clara, CA",Employee as of 01/11/2023,Office,1 yrs,2 yrs,"$141,500","$125,000","$4,000","$12,500"
+Capital One,"West McLean, VA",Offer from 01/11/2023,Office,0 yrs,0 yrs,"$113,500","$106,000",--,"$7,500"
+Salesforce,"Washington, DC",Employee as of 01/11/2023,Hybrid,1 yrs,4 yrs,"$101,500","$92,250",--,"$9,250"
+Deloitte,"New York, NY",Employee as of 01/10/2023,Hybrid,1 yrs,3 yrs,"$92,000","$92,000",--,--
+hidden,"Los Angeles, CA",Employee as of 01/10/2023,Remote,0-1 yrs,2-4 yrs,"$90,000","$90,000",--,--
+Amazon,"Seattle, WA",Employee as of 01/10/2023,Office,3 yrs,8 yrs,"$180,000","$160,000","$20,000",--
+AARP,"Washington, DC",Employee as of 01/10/2023,Hybrid,1 yrs,3 yrs,"$115,500","$105,000",--,"$10,500"
+Capital One,"West McLean, VA",Employee as of 01/10/2023,Hybrid,1 yrs,3 yrs,"$115,000","$110,000",--,"$5,000"
+Shutterstock,"New York, NY",Employee as of 01/10/2023,Remote,1 yrs,4 yrs,"$163,500","$135,000","$15,000","$13,500"
+DHL,"Cincinnati, OH",Employee as of 01/10/2023,Hybrid,1 yr,1 yr,"$70,000","$70,000",--,--
+Bayer,"Luling, LA",Employee as of 01/10/2023,Hybrid,1 yrs,5 yrs,"$62,500","$62,500",--,--
+LexisNexis,"Atlanta, GA",Employee as of 01/10/2023,Remote,1 yrs,3 yrs,"$75,000","$75,000",--,--
+Fiserv,"Omaha, NE",Employee as of 01/10/2023,Office,2 yrs,2 yrs,"$61,000","$61,000",--,--
+Indeed,"Austin, TX",Employee as of 01/10/2023,Hybrid,2 yrs,5 yrs,"$149,400","$110,000","$17,400","$22,000"
+T-Mobile,"Seattle, WA",Employee as of 01/10/2023,Office,5 yrs,5 yrs,"$109,000","$96,000","$3,000","$10,000"
+ConocoPhillips,"Houston, TX",Employee as of 01/10/2023,Hybrid,1 yr,1 yr,"$89,200","$79,200",--,"$10,000"
+Bloomberg,"New York, NY",Employee as of 01/10/2023,Office,0 yrs,0 yrs,"$80,000","$80,000",--,--
+Google,"New York, NY",Employee as of 01/10/2023,Office,3 yrs,15 yrs,"$318,000","$216,000","$70,000","$32,000"
+Rexel Holdings USA,"Beaverton, OR",Employee as of 01/09/2023,Hybrid,1 yrs,5 yrs,"$80,000","$80,000",--,--
+PNC,"Pittsburgh, PA",Employee as of 01/09/2023,Remote,3 yrs,3 yrs,"$100,000","$87,500",--,"$12,500"
+Salesforce,"Seattle, WA",Employee as of 01/09/2023,Hybrid,2 yrs,4 yrs,"$121,000","$110,000",--,"$11,000"
+hidden,"Boston, MA",Employee as of 01/09/2023,Hybrid,4 yrs,21 yrs,"$150,000","$125,000",--,"$25,000"
+Peloton,"New York, NY",Employee as of 01/09/2023,Office,2 yrs,7 yrs,"$183,000","$153,000","$30,000",--
+hidden,"San Antonio, TX",Employee as of 01/09/2023,Office,10 yrs,10 yrs,"$65,000","$65,000",--,--
+Accenture,"Atlanta, GA",Employee as of 01/09/2023,Office,1 yrs,7 yrs,"$81,000","$81,000",--,--
+Atlassian,"San Francisco, CA",Employee as of 01/09/2023,Remote,2 yrs,2 yrs,"$213,942","$142,680","$56,994","$14,268"
+hidden,"Owatonna, MN",Employee as of 01/09/2023,Remote,11+ yrs,11+ yrs,"$84,410","$82,410",--,"$2,000"
+McKinsey,"New York, NY",Employee as of 01/09/2023,Office,1 yr,1 yr,"$112,000","$112,000",--,--
+McKinsey,"Chicago, IL",Employee as of 01/09/2023,Office,2 yrs,4 yrs,"$160,000","$130,000",--,"$30,000"
+E15 Group,"Chicago, IL",Employee as of 01/09/2023,Office,1 yr,1 yr,"$70,000","$70,000",--,--
+Salesforce,"Seattle, WA",Employee as of 01/09/2023,Office,1 yrs,4 yrs,"$130,000","$118,000",--,"$12,000"
+Centene,"St. Louis, MO",Employee as of 01/09/2023,Remote,1 yrs,8 yrs,"$126,000","$121,000",--,"$5,000"
+The Home Depot,"Atlanta, GA",Employee as of 01/09/2023,Remote,2 yrs,3 yrs,"$89,000","$80,000","$4,000","$5,000"
+Russell Investments,"Seattle, WA",Employee as of 01/09/2023,Hybrid,2 yrs,9 yrs,"$95,000","$90,000",--,"$5,000"
+hidden,"New York, NY",Employee as of 01/08/2023,Remote,0-1 yrs,5-10 yrs,"$140,000","$140,000",--,y1
+Riskonnect,"Dallas, TX",Employee as of 01/08/2023,Office,2 yrs,2 yrs,"$60,000","$60,000",--,--
+hidden,"Mountain View, CA",Employee as of 01/08/2023,Remote,2-4 yrs,2-4 yrs,"$72,000","$72,000",--,--
+Pie Insurance,"San Francisco, CA",Employee as of 01/08/2023,Remote,0 yrs,3 yrs,"$120,000","$120,000",--,--
+Infosys,"Aberdeen, WA",Employee as of 01/08/2023,Office,7 yrs,10 yrs,"$54,511","$54,511",--,--
+Capital One,"West McLean, VA",Employee as of 01/08/2023,Office,0 yrs,0 yrs,"$124,500","$119,500",--,"$5,000"
+Citi,"Dallas, TX",Employee as of 01/08/2023,Hybrid,1 yrs,3 yrs,"$110,000","$110,000",--,--
+ADP,"Norfolk, VA",Employee as of 01/08/2023,Office,2 yrs,2 yrs,"$57,500","$57,500",--,--
+hidden,"Riverside, CA",Employee as of 01/08/2023,Remote,0-1 yrs,5-10 yrs,"$174,000","$141,000","$18,000","$15,000"
+Capital One,"West McLean, VA",Employee as of 01/08/2023,Office,6 yrs,12 yrs,"$223,000","$201,000",--,"$22,000"
+Ford Motor,"Dearborn, MI",Employee as of 01/07/2023,Hybrid,7 yrs,7 yrs,"$95,000","$95,000",--,--
+Tesla,"Palo Alto, CA",Employee as of 01/07/2023,Office,3 yrs,3 yrs,"$111,000","$100,000","$10,000","$1,000"
+Accenture,"Washington, DC",Employee as of 01/07/2023,Remote,1 yrs,12 yrs,"$90,000","$90,000",--,--
+Subaru,"Camden, NJ",Employee as of 01/07/2023,Hybrid,1 yrs,6 yrs,"$101,000","$101,000",--,--
+Autodesk,"Denver, CO",Employee as of 01/07/2023,Remote,4 yrs,4 yrs,"$87,800","$74,000","$8,000","$5,800"
+Decibio,"Los Angeles, CA",Employee as of 01/07/2023,Hybrid,1 yrs,2 yrs,"$120,000","$100,000",--,"$20,000"
+GEICO,"Chevy Chase, MD",Employee as of 01/07/2023,Office,3 yrs,4 yrs,"$95,000","$95,000",--,--
+Amazon,"Nashville, TN",Employee as of 01/06/2023,Remote,2 yrs,2 yrs,"$57,594","$45,594","$12,000",--
+Amazon,"Seattle, WA",Employee as of 01/06/2023,Office,1 yrs,4 yrs,"$95,000","$95,000",--,--
+Tata Consultancy Services,"Charlotte, NC",Employee as of 01/06/2023,Remote,2 yrs,5 yrs,"$73,560","$73,560",--,--
+Fortinet,"New York, NY",Employee as of 01/06/2023,Office,0 yrs,0 yrs,"$133,000","$123,000",--,"$10,000"
+Microsoft,"Redmond, WA",Employee as of 01/06/2023,Hybrid,2 yrs,7 yrs,"$222,000","$162,000","$40,000","$20,000"
+The Home Depot,"Atlanta, GA",Employee as of 01/06/2023,Remote,2 yrs,3 yrs,"$92,000","$80,000","$6,000","$6,000"
+hidden,"Grand Rapids, MI",Employee as of 01/06/2023,Hybrid,5-10 yrs,5-10 yrs,"$118,000","$108,000",--,"$10,000"
+IMA Financial Group,"Salt Lake City, UT",Employee as of 01/06/2023,Hybrid,2 yrs,2 yrs,"$59,450","$56,700",--,"$2,750"
+General Motors,"Detroit, MI",Employee as of 01/05/2023,Hybrid,0-1 yrs,5-10 yrs,"$130,000","$115,000",--,"$15,000"
+hidden,"Richmond, VA",Employee as of 01/05/2023,Remote,1 yrs,6 yrs,"$120,000","$115,000","$5,000",--
+Amazon,"Austin, TX",Employee as of 01/05/2023,Hybrid,3 yrs,6 yrs,"$202,000","$160,000","$42,000",--
+McKinsey,"New York, NY",Employee as of 01/05/2023,Hybrid,2 yrs,2 yrs,"$115,000","$100,000",--,"$15,000"
+H1,"New York, NY",Employee as of 01/05/2023,Remote,1 yr,1 yr,"$100,000","$90,000",--,"$10,000"
+Capital One,"Richmond, VA",Employee as of 01/05/2023,Remote,1 yrs,7 yrs,"$110,000","$110,000",--,--
+Deloitte,"Cincinnati, OH",Employee as of 01/05/2023,Hybrid,1 yr,1 yr,"$82,500","$75,000",--,"$7,500"
+Uber,"Seattle, WA",Employee as of 01/05/2023,Office,2 yrs,6 yrs,"$126,000","$106,000","$10,000","$10,000"
+Amazon,"Washington, DC",Employee as of 01/05/2023,Remote,1 yrs,4 yrs,"$105,000","$105,000",--,--
+JPMorgan Chase,"New York, NY",Employee as of 01/05/2023,Office,6 yrs,6 yrs,"$210,000","$145,000",--,"$65,000"
+Lowe's,"Raleigh, NC",Employee as of 01/04/2023,Remote,1 yrs,3 yrs,"$70,000","$70,000",--,--
+Keller Williams Realty International,"Austin, TX",Employee as of 01/04/2023,Remote,3 yrs,5 yrs,"$132,000","$120,000",--,"$12,000"
+FullStory,"Atlanta, GA",Employee as of 01/04/2023,Remote,0 yrs,3 yrs,"$115,000","$115,000",--,--
+USA Compression,"Houston, TX",Employee as of 01/04/2023,Office,4 yrs,4 yrs,"$71,000","$65,000",--,"$6,000"
+Booz Allen Hamilton,"Washington, DC",Employee as of 01/04/2023,Hybrid,2 yrs,3 yrs,"$64,000","$64,000",--,--
+hidden,"Denver, CO",Employee as of 01/04/2023,Remote,1 yrs,2 yrs,"$76,500","$71,500",--,"$5,000"
+JPMorgan Chase,"New York, NY",Employee as of 01/03/2023,Hybrid,0 yrs,0 yrs,"$100,000","$100,000",--,--
+PayPal,"San Jose, CA",Employee as of 01/03/2023,Remote,3 yrs,8 yrs,"$242,533","$169,575","$56,000","$16,958"
+Axel Springer SE,"New York, NY",Employee as of 01/03/2023,Office,1 yr,1 yr,"$80,000","$80,000",--,--
+Hearst,"New York, NY",Employee as of 01/03/2023,Hybrid,1 yr,1 yr,"$85,000","$85,000",--,--
+Accenture,"New York, NY",Employee as of 01/03/2023,Hybrid,1 yr,1 yr,"$97,000","$97,000",--,--
+American Airlines,"Dallas, TX",Employee as of 01/03/2023,Hybrid,1 yr,1 yr,"$124,800","$124,800",--,--
+Mazda,"Bridgewater, NJ",Employee as of 01/03/2023,Hybrid,1 yr,1 yr,"$70,850","$65,000",--,"$5,850"
+LPA,"Irvine, CA",Employee as of 01/03/2023,Hybrid,1 yrs,2 yrs,"$85,000","$85,000",--,--
+Reply,"Chicago, IL",Employee as of 01/02/2023,Remote,3 yrs,5 yrs,"$94,000","$94,000",--,--
+Digital Turbine,"Austin, TX",Offer from 01/02/2023,Hybrid,0 yrs,5 yrs,"$131,500","$115,000","$3,750",y1
+Capital One,"Richmond, VA",Employee as of 01/02/2023,Office,3 yrs,3 yrs,"$109,000","$103,000",--,"$6,000"
+Apex Technology Group,"Boston, MA",Employee as of 01/02/2023,Office,2 yrs,5 yrs,"$87,360","$87,360",--,--
+Arkansas Blue Cross Blue Shield,"Little Rock, AR",Employee as of 01/02/2023,Remote,2 yrs,2 yrs,"$78,100","$71,000",--,"$7,100"
+hidden,"Chicago, IL",Employee as of 01/02/2023,Remote,5 yrs,7 yrs,"$145,200","$132,000",--,"$13,200"
+Northrop Grumman,"San Diego, CA",Employee as of 01/02/2023,Hybrid,1 yr,1 yr,"$66,000","$66,000",--,--
+Salesforce,"New York, NY",Employee as of 01/02/2023,Office,2 yrs,3 yrs,"$127,600","$116,000",--,"$11,600"
+American Express,"Salt Lake City, UT",Employee as of 01/01/2023,Hybrid,2 yrs,4 yrs,"$89,000","$83,000",--,"$6,000"
+Nordstrom,"Seattle, WA",Employee as of 01/01/2023,Remote,1 yr,1 yr,"$52,520","$52,520",--,--
+3M,"Saint Paul, MN",Employee as of 12/31/2022,Remote,2 yrs,2 yrs,"$115,000","$107,500",--,"$7,500"
+HCA Healthcare,"Austin, TX",Employee as of 12/31/2022,Hybrid,1 yrs,2 yrs,"$75,000","$70,000","$5,000",--
+GoDaddy,"Dallas, TX",Employee as of 12/31/2022,Remote,1 yrs,4 yrs,"$140,000","$120,000","$15,000","$5,000"
+Fairview Health Services,"Minneapolis, MN",Employee as of 12/31/2022,Office,2 yrs,2 yrs,"$40,000","$40,000",--,--
+U.S. Bank,"Minneapolis, MN",Offer from 12/31/2022,Office,0 yrs,0 yrs,"$120,750","$105,000",--,"$15,750"
+Capital One,"West McLean, VA",Offer from 12/31/2022,Office,0 yrs,0 yrs,"$110,000","$110,000",--,--
+Liberty Mutual,"Chicago, IL",Employee as of 12/31/2022,Office,3 yrs,3 yrs,"$80,000","$80,000",--,--
+Jack Henry & Associates,"Atlanta, GA",Offer from 12/31/2022,Remote,0 yrs,5 yrs,"$124,800","$124,800",--,--
+Facebook,"Mountain View, CA",Employee as of 12/31/2022,Office,2 yrs,3 yrs,"$110,000","$110,000",--,--
+Walgreens Boots Alliance,"Chicago, IL",Employee as of 12/31/2022,Remote,2 yrs,3 yrs,"$90,000","$85,000",--,"$5,000"
+Groupon,"Chicago, IL",Employee as of 12/31/2022,Office,2 yrs,2 yrs,"$45,000","$45,000",--,--
+hidden,"Hyattsville, MD",Employee as of 12/30/2022,Hybrid,0-1 yrs,0-1 yrs,"$66,000","$66,000",--,--
+hidden,"Richmond, VA",Employee as of 12/30/2022,Hybrid,0 yrs,0 yrs,"$78,000","$78,000",--,--
+Camden,"Houston, TX",Employee as of 12/30/2022,Remote,4 yrs,4 yrs,"$45,900","$45,900",--,--
+Aegon,"Chicago, IL",Employee as of 12/29/2022,Hybrid,1 yr,1 yr,"$71,200","$65,200",--,"$6,000"
+Progressive Insurance,"Los Angeles, CA",Employee as of 12/29/2022,Remote,0 yrs,3 yrs,"$95,000","$85,000",--,"$10,000"
+Walmart,"Virginia Beach, VA",Employee as of 12/28/2022,Office,1 yr,1 yr,"$40,000","$40,000",--,--
+Amazon,"Seattle, WA",Employee as of 12/28/2022,Office,1 yrs,3 yrs,"$170,000","$170,000",--,--
+PayPal,"San Jose, CA",Employee as of 12/28/2022,Remote,3 yrs,7 yrs,"$197,450","$169,500","$11,000","$16,950"
+Bloomberg,"Princeton, NJ",Employee as of 12/28/2022,Office,1 yrs,2 yrs,"$76,000","$76,000",--,--
+AgileOne,"Denver, CO",Offer from 12/28/2022,Remote,0 yrs,2 yrs,"$75,000","$75,000",--,--
+Comerica,"New York, NY",Employee as of 12/28/2022,Office,2 yrs,5 yrs,"$130,000","$130,000",--,--
+Nordstrom,"Sacramento, CA",Employee as of 12/28/2022,Remote,1 yrs,3 yrs,"$135,000","$135,000",--,--
+Cigna,"Lawrenceville, GA",Employee as of 12/28/2022,Remote,2 yrs,2 yrs,"$70,400","$70,400",--,--
+Weedmaps,"New York, NY",Employee as of 12/28/2022,Remote,1 yrs,3 yrs,"$112,000","$100,000","$12,000",--
+hidden,"Denver, CO",Employee as of 12/27/2022,Remote,0-1 yrs,2-4 yrs,"$80,000","$72,000",--,"$8,000"
+Warner Bros. Discovery,"Los Angeles, CA",Employee as of 12/27/2022,Hybrid,2 yrs,5 yrs,"$200,000","$160,000","$15,000","$25,000"
+hidden,"Charlotte, NC",Employee as of 12/27/2022,Remote,0-1 yrs,5-10 yrs,"$90,000","$90,000",--,--
+Costco Wholesale,Seattle,Employee as of 12/27/2022,Hybrid,2-4 yrs,11+ yrs,"$99,000","$99,000",--,--
+hidden,"Los Angeles, CA",Employee as of 12/27/2022,Remote,0-1 yrs,5-10 yrs,"$240,000","$180,000","$60,000",--
+1010data,"New York, NY",Employee as of 12/27/2022,Remote,2 yrs,8 yrs,"$106,000","$90,000",--,"$16,000"
+Capital One,"West McLean, VA",Employee as of 12/27/2022,Office,3 yrs,3 yrs,"$126,000","$115,000",--,"$11,000"
+ChenMed,"Miami, FL",Employee as of 12/27/2022,Remote,1 yr,1 yr,"$52,000","$52,000",--,--
+RGP Consultants,"San Francisco, CA",Employee as of 12/26/2022,Remote,1 yrs,3 yrs,"$100,000","$100,000",--,--
+1010data,"New York, NY",Employee as of 12/26/2022,Remote,2 yrs,8 yrs,"$104,500","$89,000",--,"$15,500"
+hidden,"Colorado Springs, CO",Employee as of 12/26/2022,Remote,0-1 yrs,2-4 yrs,"$70,500","$70,500",--,--
+ServiceMaster Brands,"Atlanta, GA",Employee as of 12/26/2022,Hybrid,2 yrs,2 yrs,"$92,000","$80,000",--,"$12,000"
+Delta Apparel,"Duluth, GA",Employee as of 12/26/2022,Hybrid,1 yrs,2 yrs,"$55,000","$53,000",--,"$2,000"
+FOX,"Los Angeles, CA",Employee as of 12/26/2022,Hybrid,2 yrs,3 yrs,"$119,000","$119,000",--,--
+DoorDash,"New York, NY",Employee as of 12/26/2022,Office,3 yrs,4 yrs,"$244,000","$144,000","$100,000",--
+Lyft,"New York, NY",Employee as of 12/26/2022,Remote,1 yrs,3 yrs,"$164,000","$119,000","$45,000",--
+hidden,"New York, NY",Employee as of 12/25/2022,Office,0-1 yrs,0-1 yrs,"$117,840","$115,000","$2,840",y1
+Aardy,"Miami, FL",Employee as of 12/25/2022,Hybrid,1 yrs,2 yrs,"$75,000","$75,000",--,--
+The Home Depot,"Atlanta, GA",Employee as of 12/25/2022,Remote,2 yrs,3 yrs,"$95,000","$87,000","$8,000",--
+Accenture,"Miami, FL",Employee as of 12/25/2022,Hybrid,1 yrs,3 yrs,"$87,010","$85,010",--,"$2,000"
+Ernst and Young,"West McLean, VA",Offer from 12/24/2022,Hybrid,0 yr,1 yr,"$90,400","$82,900",--,"$7,500"
+HCL Global Systems,"Raritan, NJ",Employee as of 12/24/2022,Office,2 yrs,9 yrs,"$140,000","$140,000",--,--
+Porsche digital,"Atlanta, GA",Employee as of 12/24/2022,Hybrid,1 yr,1 yr,"$75,000","$75,000",--,--
+hidden,"Houston, TX",Employee as of 12/23/2022,Remote,0-1 yrs,2-4 yrs,"$130,000","$115,000",--,"$15,000"
+Apple,"Cupertino, CA",Employee as of 12/23/2022,Office,0 yrs,0 yrs,"$100,000","$100,000",--,--
+Jane Street,"New York, NY",Employee as of 12/23/2022,Office,7 yrs,7 yrs,"$340,000","$200,000",--,"$140,000"
+DriveTime,"Tempe, AZ",Employee as of 12/23/2022,Remote,1 yr,1 yr,"$83,000","$78,000",--,"$5,000"
+Amazon,"Seattle, WA",Employee as of 12/23/2022,Office,3 yrs,5 yrs,"$110,000","$110,000",--,--
+Wayfair,"Boston, MA",Employee as of 12/23/2022,Hybrid,1 yr,1 yr,"$96,000","$86,000",--,"$10,000"
+Silicon Valley Bank,"Phoenix, AZ",Employee as of 12/23/2022,Remote,10 yrs,10 yrs,"$94,000","$94,000",--,--
+Twin,"New York, NY",Employee as of 12/23/2022,Office,1 yrs,2 yrs,"$118,000","$118,000",--,--
+Rockwell Automation,"New York, NY",Employee as of 12/23/2022,Remote,1 yrs,13 yrs,"$125,000","$125,000",--,--
+hidden,"Pittsburgh, PA",Employee as of 12/23/2022,Remote,0-1 yrs,5-10 yrs,"$58,000","$58,000",--,--
+Capital One,"West McLean, VA",Employee as of 12/22/2022,Remote,2 yrs,7 yrs,"$112,000","$112,000",--,--
+Visa,"Bellevue, WA",Employee as of 12/22/2022,Office,2 yrs,5 yrs,"$133,000","$133,000",--,--
+Capital One,"Plano, TX",Offer from 12/22/2022,Office,0 yrs,0 yrs,"$96,000","$96,000",--,--
+EAB,"Washington, DC",Employee as of 12/22/2022,Hybrid,5 yrs,7 yrs,"$72,800","$72,800",--,--
+Boeing,"Seattle, WA",Employee as of 12/22/2022,Hybrid,2 yrs,2 yrs,"$90,000","$90,000",--,--
+Trimble Viewpoint,"Hartford, CT",Employee as of 12/22/2022,Remote,1 yrs,3 yrs,"$97,000","$90,000",--,"$7,000"
+LG,"Jersey City, NJ",Offer from 12/22/2022,Hybrid,0 yr,1 yr,"$50,000","$50,000",--,--
+Capital One,"West McLean, VA",Employee as of 12/22/2022,Office,0 yrs,2 yrs,"$135,000","$115,000",--,"$20,000"
+Bank of America,"Phoenix, AZ",Employee as of 12/22/2022,Hybrid,15 yrs,15 yrs,"$118,000","$107,000","$4,000","$7,000"
+The Home Depot,"Atlanta, GA",Employee as of 12/21/2022,Remote,2 yrs,3 yrs,"$95,000","$85,000","$6,000","$4,000"
+Eli Lilly and Company,"Indianapolis, IN",Employee as of 12/21/2022,Hybrid,2 yrs,2 yrs,"$74,000","$74,000",--,--
+McKinsey,"Washington, DC",Offer from 12/21/2022,Office,0 yrs,0 yrs,"$145,013","$112,000",--,"$33,013"
+Santander Bank,"Boston, MA",Offer from 12/21/2022,Remote,0 yrs,4 yrs,"$100,000","$100,000",--,--
+Slalom,"Hartford, CT",Employee as of 12/21/2022,Hybrid,1 yrs,2 yrs,"$81,000","$75,000","$6,000",--
+Intercom,"San Francisco, CA",Employee as of 12/20/2022,Office,1 yrs,2 yrs,"$125,000","$125,000",--,--
+Cognizant,"Plano, TX",Offer from 12/20/2022,Hybrid,0 yrs,0 yrs,"$81,250","$70,000",--,"$11,250"
+Uber,"San Francisco, CA",Employee as of 12/20/2022,Office,2 yrs,7 yrs,"$142,000","$130,000",--,"$12,000"
+Workday,"Dallas, TX",Employee as of 12/20/2022,Remote,2 yrs,5 yrs,"$144,000","$118,000","$15,000","$11,000"
+Perficient,"Atlanta, GA",Employee as of 12/20/2022,Remote,3 yrs,5 yrs,"$113,000","$108,000",--,"$5,000"
+National Institutes of Health,"Rockville, MD",Employee as of 12/19/2022,Remote,3 yrs,3 yrs,"$75,000","$75,000",--,--
+hidden,"Los Angeles, CA",Employee as of 12/19/2022,Remote,1 yrs,3 yrs,"$215,625","$180,000","$35,625",y1
+Tata Consultancy Services,"Denver, CO",Employee as of 12/19/2022,Office,11 yrs,11 yrs,"$90,300","$90,300",--,--
+Toyota USA,"Dallas, TX",Employee as of 12/19/2022,Hybrid,3 yrs,3 yrs,"$77,000","$77,000",--,--
+KPMG,"Dallas, TX",Employee as of 12/19/2022,Hybrid,2-4 yrs,2-4 yrs,"$43,000","$43,000",--,--
+Allstate,"Phoenix, AZ",Employee as of 12/19/2022,Remote,1 yrs,4 yrs,"$62,000","$62,000",--,--
+CBRE,"Dallas, TX",Employee as of 12/18/2022,Office,4 yrs,4 yrs,"$67,000","$67,000",--,--
+Apple,"Santa Clara, CA",Employee as of 12/17/2022,Hybrid,1 yrs,11 yrs,"$230,000","$180,000","$30,000","$20,000"
+Thermo Fisher Scientific,"San Diego, CA",Employee as of 12/17/2022,Hybrid,5 yrs,20 yrs,"$155,000","$140,000",--,"$15,000"
+Golden 1 Credit Union,"Sacramento, CA",Employee as of 12/17/2022,Remote,10 yrs,10 yrs,"$73,000","$73,000",--,--
+Optum,Minneapolis-St. Paul,Offer from 12/16/2022,Remote,0-1 yrs,5-10 yrs,"$164,000","$135,000",--,"$29,000"
+Illumina,"San Diego, CA",Employee as of 12/16/2022,Hybrid,5-10 yrs,5-10 yrs,"$119,000","$99,000","$15,000","$5,000"
+PayPal,"Los Angeles, CA",Employee as of 12/16/2022,Remote,1 yrs,4 yrs,"$177,000","$145,000","$17,500","$14,500"
+hidden,"St. Louis, MO",Employee as of 12/16/2022,Remote,0-1 yrs,2-4 yrs,"$101,000","$95,000",--,"$6,000"
+AbbVie,"Chicago, IL",Employee as of 12/16/2022,Office,2-4 yrs,5-10 yrs,"$83,000","$79,000",--,"$4,000"
+Citi,"Kansas City, MO",Offer from 12/16/2022,Hybrid,0 yrs,6 yrs,"$130,000","$130,000",--,--
+VMLY&R,"Atlanta, GA",Employee as of 12/16/2022,Hybrid,2 yrs,6 yrs,"$90,000","$90,000",--,--
+Marsh & McLennan Companies,"Houston, TX",Employee as of 12/16/2022,Office,0 yrs,0 yrs,"$65,000","$65,000",--,--
+Huntsman,Houston,Employee as of 12/15/2022,Office,2-4 yrs,2-4 yrs,"$78,000","$78,000",--,--
+BP,"Houston, TX",Employee as of 12/15/2022,Office,3 yrs,3 yrs,"$105,000","$95,000",--,"$10,000"
+Informa Plc,"Shawnee, KS",Employee as of 12/15/2022,Remote,1 yrs,2 yrs,"$63,000","$63,000",--,--
+Albertsons,"Phoenix, AZ",Employee as of 12/15/2022,Remote,3 yrs,13 yrs,"$90,000","$90,000",--,--
+Visa,"San Francisco, CA",Employee as of 12/14/2022,Office,6 yrs,6 yrs,"$320,000","$210,000","$53,000","$57,000"
+United Airlines,"Chicago, IL",Employee as of 12/14/2022,Office,5 yrs,5 yrs,"$160,000","$135,000","$10,000","$15,000"
+McKinsey,"New York, NY",Employee as of 12/14/2022,Office,2 yrs,2 yrs,"$170,000","$130,000",--,"$40,000"
+Amazon,"Seattle, WA",Employee as of 12/14/2022,Hybrid,1 yrs,4 yrs,"$104,000","$90,000","$4,000","$10,000"
+Shield Compliance,"Seattle, WA",Employee as of 12/14/2022,Office,4 yrs,5 yrs,"$85,000","$85,000",--,--
+Stanford Health Care,"Palo Alto, CA",Employee as of 12/14/2022,Office,2-4 yrs,2-4 yrs,"$105,859","$105,359",--,$500
+American Heart Association,"Dallas, TX",Employee as of 12/14/2022,Remote,2 yrs,5 yrs,"$84,900","$84,900",--,--
+JPMorgan Chase,"Chicago, IL",Employee as of 12/14/2022,Hybrid,1 yrs,7 yrs,"$120,000","$120,000",--,--
+CDW,"Chicago, IL",Employee as of 12/14/2022,Remote,2 yrs,2 yrs,"$85,000","$82,000",--,"$3,000"
+GoDaddy,"San Francisco, CA",Employee as of 12/14/2022,Remote,3 yrs,6 yrs,"$190,000","$140,000","$50,000",--
+Northrop Grumman,"Palmdale, CA",Employee as of 12/13/2022,Office,2 yrs,2 yrs,"$68,940","$68,940",--,--
+Microsoft,"Redmond, WA",Employee as of 12/13/2022,Remote,1 yrs,7 yrs,"$165,000","$134,000","$22,000","$9,000"
+Vimeo,"New York, NY",Employee as of 12/13/2022,Office,2-4 yrs,2-4 yrs,"$100,000","$83,000","$10,000","$7,000"
+hidden,"Cincinnati, OH",Employee as of 12/13/2022,Office,2-4 yrs,2-4 yrs,"$65,000","$65,000",--,--
+hidden,"Atlanta, GA",Employee as of 12/13/2022,Remote,2-4 yrs,5-10 yrs,"$130,000","$130,000",--,--
+Xilinx,"San Jose, CA",Employee as of 12/13/2022,Office,3 yrs,5 yrs,"$124,000","$110,000","$4,000","$10,000"
+Salesforce,"San Francisco, CA",Employee as of 12/13/2022,Hybrid,4 yrs,10 yrs,"$132,000","$120,000",--,"$12,000"
+Stryker,"Redmond, WA",Employee as of 12/13/2022,Office,1 yr,1 yr,"$94,000","$94,000",--,--
+CoverMyMeds,"Columbus, OH",Employee as of 12/13/2022,Hybrid,4 yrs,4 yrs,"$67,000","$61,000",--,"$6,000"
+hidden,"Raleigh, NC",Employee as of 12/13/2022,Hybrid,2-4 yrs,2-4 yrs,"$75,000","$75,000",--,--
+Intuit,"Mountain View, CA",Employee as of 12/13/2022,Hybrid,1 yrs,5 yrs,"$171,148","$110,134","$68,099","$11,013"
+Blue Shield of California,"Rancho Cordova, CA",Employee as of 12/12/2022,Remote,1 yrs,5 yrs,"$157,000","$137,000",--,"$20,000"
+Tata Consultancy Services,"New York, NY",Employee as of 12/12/2022,Hybrid,8 yrs,12 yrs,"$105,000","$105,000",--,--
+Nike,"Beaverton, OR",Employee as of 12/12/2022,Hybrid,1 yrs,5 yrs,"$143,750","$125,000",--,"$18,750"
+Nike,"Portland, OR",Employee as of 12/12/2022,Remote,1 yrs,2 yrs,"$115,000","$115,000",--,--
+Cloudmed,"Orlando, FL",Employee as of 12/12/2022,Remote,0 yrs,4 yrs,"$60,000","$60,000",--,--
+Healthfirst,"New York, NY",Employee as of 12/12/2022,Remote,1 yrs,3 yrs,"$90,000","$90,000",--,--
+JPMorgan Chase,"Miami, FL",Employee as of 12/12/2022,Remote,5 yrs,15 yrs,"$105,000","$95,000",--,"$10,000"
+Tempus,"Chicago, IL",Employee as of 12/12/2022,Hybrid,4 yrs,4 yrs,"$70,000","$68,000","$2,000",--
+InvestCloud,"Tampa, FL",Employee as of 12/12/2022,Hybrid,1 yrs,8 yrs,"$140,000","$130,000",--,"$10,000"
+AIG,"New York, NY",Employee as of 12/12/2022,Hybrid,0 yrs,0 yrs,"$96,000","$88,000",--,"$8,000"
+Surety Systems,"Raleigh, NC",Employee as of 12/12/2022,Hybrid,1 yr,1 yr,"$45,000","$40,000",--,"$5,000"
+Barclays,"New York, NY",Employee as of 12/12/2022,Office,2 yrs,2 yrs,"$100,000","$100,000",--,--
+hidden,"Dallas, TX",Employee as of 12/12/2022,Remote,0-1 yrs,2-4 yrs,"$54,000","$54,000",--,--
+Lockheed Martin,"Orlando, FL",Employee as of 12/12/2022,Office,2 yrs,2 yrs,"$75,000","$71,000",--,"$4,000"
+Magna International,"Troy, MI",Employee as of 12/12/2022,Hybrid,5 yrs,6 yrs,"$107,500","$95,000",--,"$12,500"
+Facebook,"New York, NY",Employee as of 12/12/2022,Office,1 yrs,10 yrs,"$251,250","$175,000","$50,000","$26,250"
+Ernst and Young,"Jacksonville, FL",Employee as of 12/12/2022,Hybrid,1 yrs,2 yrs,"$64,000","$64,000",--,--
+DXC Technology,"Plano, TX",Employee as of 12/12/2022,Remote,16 yrs,18 yrs,"$70,000","$70,000",--,--
+McDonald's,"Chicago, IL",Employee as of 12/12/2022,Office,1 yr,1 yr,"$86,500","$78,500",--,"$8,000"
+Blue Origin,"Seattle, WA",Employee as of 12/12/2022,Remote,1 yrs,4 yrs,"$146,000","$111,000","$35,000",--
+Amazon,"Las Vegas, NV",Employee as of 12/12/2022,Office,5 yrs,7 yrs,"$83,100","$63,100","$20,000",--
+RBC,"Jersey City, NJ",Employee as of 12/12/2022,Hybrid,1 yrs,2 yrs,"$76,000","$70,000",--,"$6,000"
+Victoria's Secret & Co,"Columbus, OH",Employee as of 12/12/2022,Office,1 yr,1 yr,"$84,000","$76,000",--,"$8,000"
+Medline Industries,"Chicago, IL",Employee as of 12/12/2022,Remote,7 yrs,11 yrs,"$99,500","$99,500",--,--
+ISACA,"Chicago, IL",Employee as of 12/12/2022,Remote,4 yrs,14 yrs,"$84,500","$72,000",--,"$12,500"
+Blue Origin,"San Francisco, CA",Employee as of 12/12/2022,Remote,1 yrs,3 yrs,"$111,000","$111,000",--,--
+Tesla,"Palo Alto, CA",Employee as of 12/12/2022,Office,2 yrs,2 yrs,"$128,000","$100,000","$28,000",--
+Caesars Entertainment,"Las Vegas, NV",Employee as of 12/12/2022,Hybrid,1 yrs,2 yrs,"$65,000","$65,000",--,--
+Amazon,"Nashville, TN",Employee as of 12/11/2022,Office,1 yrs,5 yrs,"$88,500","$74,500","$1,500","$12,500"
+IBM,"San Francisco, CA",Employee as of 12/11/2022,Office,28 yrs,28 yrs,"$235,000","$235,000",--,--
+United Biosource,"Blue Bell, PA",Employee as of 12/11/2022,Remote,0 yrs,3 yrs,"$138,000","$120,000",--,"$18,000"
+Gainwell Technologies,"West Sacramento, CA",Employee as of 12/11/2022,Remote,1 yrs,2 yrs,"$69,000","$69,000",--,--
+hidden,"Irvine, CA",Employee as of 12/11/2022,Remote,0-1 yrs,2-4 yrs,"$60,000","$60,000",--,--
+Adtalem Global Education,"Sterling, VA",Offer from 12/11/2022,Remote,0 yrs,3 yrs,"$85,000","$85,000",--,--
+hidden,"Boston, MA",Employee as of 12/11/2022,Office,5 yrs,8 yrs,"$95,000","$90,000",--,"$5,000"
+WR Berkley,"Greenwich, CT",Employee as of 12/11/2022,Hybrid,7 yrs,7 yrs,"$114,000","$100,000","$9,000","$5,000"
+Boeing,"Everett, WA",Employee as of 12/11/2022,Office,3 yrs,5 yrs,"$101,952","$101,952",--,--
+Vistaprint,"Seattle, WA",Offer from 12/10/2022,Remote,0 yrs,2 yrs,"$99,250","$93,000",--,"$6,250"
+PitchBook Data,"Seattle, WA",Offer from 12/10/2022,Hybrid,0 yr,1 yr,"$96,750","$90,000",--,"$6,750"
+hidden,"Las Vegas, NV",Employee as of 12/10/2022,Office,2-4 yrs,2-4 yrs,"$65,000","$65,000",--,--
+Credit One Bank,"Las Vegas, NV",Employee as of 12/10/2022,Office,2 yrs,4 yrs,"$75,000","$75,000",--,--
+ZenBusiness,"Houston, TX",Employee as of 12/09/2022,Remote,1 yrs,5 yrs,"$130,000","$130,000",--,--
+Intel,"Hillsboro, OR",Employee as of 12/09/2022,Hybrid,1 yrs,6 yrs,"$118,000","$108,000","$10,000",--
+WebMD Health Services,"New York, NY",Employee as of 12/09/2022,Office,3 yrs,3 yrs,"$65,000","$65,000",--,--
+Lowe's,"Charlotte, NC",Employee as of 12/09/2022,Remote,3 yrs,3 yrs,"$134,071","$99,071","$15,000","$20,000"
+Wayfair,"Boston, MA",Employee as of 12/09/2022,Office,3 yrs,5 yrs,"$120,000","$100,000","$10,000","$10,000"
+CGI,"Fairfax, VA",Employee as of 12/09/2022,Remote,2 yrs,2 yrs,"$85,000","$83,800",--,"$1,200"
+Intuit,"Mountain View, CA",Employee as of 12/08/2022,Office,2 yrs,6 yrs,"$200,000","$155,000","$45,000",--
+Huntsman,"Houston, TX",Employee as of 12/08/2022,Hybrid,4 yrs,10 yrs,"$108,000","$100,000",--,"$8,000"
+Novartis,"Princeton, NJ",Employee as of 12/08/2022,Office,5 yrs,13 yrs,"$317,000","$214,000","$50,000","$53,000"
+Tesla,"Palo Alto, CA",Employee as of 12/08/2022,Hybrid,1 yrs,3 yrs,"$139,000","$104,000","$15,000","$20,000"
+Wayfair,"Boston, MA",Employee as of 12/08/2022,Hybrid,1 yrs,3 yrs,"$115,500","$115,500",--,--
+Accenture,"San Jose, CA",Employee as of 12/08/2022,Remote,1 yr,1 yr,"$71,500","$70,000",--,"$1,500"
+Pearson,"Bloomington, MN",Employee as of 12/08/2022,Remote,1 yrs,2 yrs,"$70,000","$70,000",--,--
+Aetna,"District Heights, MD",Employee as of 12/08/2022,Remote,1 yrs,4 yrs,"$64,000","$60,000",--,"$4,000"
+Nodaway Valley Bank,"Kansas City, MO",Employee as of 12/08/2022,Office,4 yrs,4 yrs,"$42,000","$42,000",--,--
+hidden,"Maumee, OH",Employee as of 12/08/2022,Office,2-4 yrs,2-4 yrs,"$88,000","$87,000",--,"$1,000"
+Square,"Seattle, WA",Employee as of 12/08/2022,Office,3 yrs,5 yrs,"$182,000","$152,000","$30,000",--
+hidden,"Chicago, IL",Employee as of 12/07/2022,Remote,1 yrs,4 yrs,"$112,500","$110,000","$2,500",--
+hidden,"Chicago, IL",Employee as of 12/07/2022,Remote,4 yrs,6 yrs,"$74,500","$70,000",--,"$4,500"
+Morgan Stanley,"Salt Lake City, UT",Employee as of 12/07/2022,Office,1 yr,1 yr,"$70,000","$70,000",--,--
+Amazon,"Arlington, VA",Employee as of 12/07/2022,Office,1 yrs,7 yrs,"$195,000","$150,000","$30,000","$15,000"
+Adobe,"Tucson, AZ",Employee as of 12/07/2022,Remote,3 yrs,7 yrs,"$224,000","$164,000","$35,000","$25,000"
+Google,"San Francisco, CA",Employee as of 12/07/2022,Office,5 yrs,7 yrs,"$246,000","$171,000","$50,000","$25,000"
+Metropolitan Transportation Authority,"New York, NY",Employee as of 12/07/2022,Hybrid,2 yrs,2 yrs,"$73,964","$73,964",--,--
+Capgemini,"New York, NY",Employee as of 12/07/2022,Remote,4 yrs,4 yrs,"$95,000","$95,000",--,--
+Cisco,"Raleigh, NC",Employee as of 12/07/2022,Remote,3 yrs,5 yrs,"$79,000","$75,000",--,"$4,000"
+ByteDance,"Mountain View, CA",Employee as of 12/06/2022,Hybrid,1 yrs,3 yrs,"$190,000","$130,000","$25,000","$35,000"
+Amazon,"San Francisco, CA",Employee as of 12/06/2022,Office,1 yrs,7 yrs,"$195,000","$155,000","$10,000","$30,000"
+Apple,"Austin, TX",Employee as of 12/06/2022,Hybrid,1 yrs,8 yrs,"$135,200","$135,200",--,--
+hidden,"Ridgeland, MS",Offer from 12/06/2022,Hybrid,0-1 yrs,0-1 yrs,"$60,000","$60,000",--,--
+Amazon,"Seattle, WA",Employee as of 12/06/2022,Remote,2 yrs,6 yrs,"$165,000","$138,000","$27,000",--
+SalesLoft,"Atlanta, GA",Employee as of 12/06/2022,Remote,0 yrs,6 yrs,"$112,875","$105,000",--,"$7,875"
+Amazon,"Charlotte, NC",Employee as of 12/06/2022,Remote,1 yrs,3 yrs,"$129,000","$106,000","$8,000","$15,000"
+Amazon,"Raleigh, NC",Employee as of 12/06/2022,Remote,3 yrs,3 yrs,"$109,003","$81,700","$27,303",--
+Accenture,"Sacramento, CA",Employee as of 12/06/2022,Hybrid,1 yrs,2 yrs,"$88,200","$87,000",--,"$1,200"
+Franklin Templeton,"San Francisco, CA",Employee as of 12/06/2022,Hybrid,7 yrs,7 yrs,"$104,500","$95,000",--,"$9,500"
+The Friday Institute,"Raleigh, NC",Employee as of 12/05/2022,Office,3 yrs,5 yrs,"$88,000","$88,000",--,--
+Banner Engineering,"Minneapolis, MN",Employee as of 12/05/2022,Office,2 yrs,2 yrs,"$61,500","$61,500",--,--
+LiveRamp,"Boston, MA",Employee as of 12/05/2022,Remote,1 yrs,5 yrs,"$175,000","$145,000","$30,000",--
+Zendesk,"San Francisco, CA",Employee as of 12/05/2022,Remote,1 yrs,6 yrs,"$141,000","$120,000","$15,000","$6,000"
+hidden,"Philadelphia, PA",Employee as of 12/05/2022,Office,2-4 yrs,5-10 yrs,"$105,000","$105,000",--,--
+Google,"New York, NY",Employee as of 12/05/2022,Hybrid,1 yrs,7 yrs,"$172,325","$147,000","$13,325","$12,000"
+Hive Preparatory School,"Miami, FL",Employee as of 12/05/2022,Office,4 yrs,4 yrs,"$60,000","$55,000",--,"$5,000"
+Uber,"San Francisco, CA",Employee as of 12/04/2022,Office,1 yrs,5 yrs,"$109,000","$109,000",--,--
+Bomm Organics,"New York, NY",Employee as of 12/04/2022,Hybrid,8 yrs,8 yrs,"$110,000","$110,000",--,--
+Booz Allen Hamilton,"Washington, DC",Employee as of 12/04/2022,Hybrid,1 yrs,5 yrs,"$115,000","$115,000",--,--
+Capital One,"Mc Lean, VA",Offer from 12/04/2022,Hybrid,0 yrs,0 yrs,"$108,625","$106,000",--,"$2,625"
+SailPoint,"Austin, TX",Offer from 12/04/2022,Office,0 yr,1 yr,"$80,000","$80,000",--,--
+Twitter,"Miami, FL",Employee as of 12/04/2022,Remote,2 yrs,5 yrs,"$209,000","$149,000","$40,000","$20,000"
+State Farm,"Bloomington, IL",Employee as of 12/03/2022,Hybrid,3 yrs,3 yrs,"$80,000","$80,000",--,--
+JPMorgan Chase,"New York, NY",Offer from 12/03/2022,Office,0 yrs,5 yrs,"$160,000","$135,000",--,"$25,000"
+Delta Air Lines,"Atlanta, GA",Employee as of 12/03/2022,Office,8 yrs,11 yrs,"$157,000","$122,000",--,"$35,000"
+T Rowe,"Baltimore, MD",Employee as of 12/03/2022,Office,7 yrs,15 yrs,"$103,000","$92,000",--,"$11,000"
+Amazon,"Seattle, WA",Employee as of 12/02/2022,Office,1 yrs,2 yrs,"$128,000","$100,000",--,"$28,000"
+Inovalon,"Washington, DC",Employee as of 12/02/2022,Remote,2 yrs,2 yrs,"$55,000","$50,000",--,"$5,000"
+Spectrum,"St. Louis, MO",Employee as of 12/02/2022,Hybrid,1 yrs,4 yrs,"$110,000","$100,000",--,"$10,000"
+Boeing Intelligence & Analytics,"Arlington, VA",Employee as of 12/02/2022,Office,5 yrs,18 yrs,"$140,000","$140,000",--,--
+Booz Allen Hamilton,"Rockville, MD",Employee as of 12/02/2022,Remote,3 yrs,3 yrs,"$110,000","$110,000",--,--
+Pinterest,"San Francisco, CA",Employee as of 12/02/2022,Office,1 yrs,3 yrs,"$160,000","$160,000",--,--
+hidden,"Columbus, OH",Employee as of 12/01/2022,Hybrid,2-4 yrs,2-4 yrs,"$82,000","$76,000",--,"$6,000"
+Deloitte,"Houston, TX",Employee as of 12/01/2022,Hybrid,2 yrs,2 yrs,"$79,000","$74,000",--,"$5,000"
+hidden,"San Francisco, CA",Employee as of 12/01/2022,Office,2-4 yrs,2-4 yrs,"$79,040","$79,040",--,--
+hidden,"San Luis Obispo, CA",Employee as of 12/01/2022,Remote,7 yrs,7 yrs,"$72,000","$72,000",--,--
+Northwestern Mutual,"Milwaukee, WI",Employee as of 12/01/2022,Office,37 yrs,37 yrs,"$102,000","$92,000",--,"$10,000"
+Northwestern Mutual,"Milwaukee, WI",Employee as of 12/01/2022,Office,1 yrs,5 yrs,"$81,000","$73,000",--,"$8,000"
+Gopuff,"Philadelphia, PA",Employee as of 12/01/2022,Remote,2 yrs,6 yrs,"$140,000","$140,000",--,--
+Procter & Gamble,"Boston, MA",Employee as of 12/01/2022,Office,5 yrs,5 yrs,"$108,000","$103,000",--,"$5,000"
+PropLogix,"Sarasota, FL",Employee as of 12/01/2022,Remote,1 yrs,10 yrs,"$125,000","$125,000",--,--
+hidden,"Oakland, CA",Employee as of 12/01/2022,Remote,0-1 yrs,2-4 yrs,"$120,000","$120,000",--,--
+Facebook,"Menlo Park, CA",Employee as of 12/01/2022,Office,1 yrs,12 yrs,"$234,100","$171,000","$37,500","$25,600"
+Built Worlds,"Chicago, IL",Employee as of 11/30/2022,Office,1 yrs,8 yrs,"$160,000","$135,000",--,"$25,000"
+USAA,"San Antonio, TX",Offer from 11/30/2022,Office,0-1 yrs,0-1 yrs,"$70,000","$70,000",--,--
+hidden,"Chicago, IL",Offer from 11/30/2022,Office,0-1 yrs,0-1 yrs,"$100,000","$100,000",--,--
+McKinsey,"Atlanta, GA",Offer from 11/30/2022,Office,0 yrs,0 yrs,"$131,250","$112,000",--,"$19,250"
+SAP,"New York, NY",Employee as of 11/30/2022,Office,1 yrs,2 yrs,"$95,000","$95,000",--,--
+Surescripts,"Arlington, VA",Offer from 11/30/2022,Hybrid,0 yrs,2 yrs,"$122,750","$108,000",--,"$14,750"
+PennyMac Loan Services,"Los Angeles, CA",Offer from 11/30/2022,Office,0 yrs,0 yrs,"$65,000","$65,000",--,--
+Accenture,"Arlington, VA",Offer from 11/30/2022,Office,0 yrs,0 yrs,"$88,750","$87,000",--,"$1,750"
+Alliant Insurance Services,"Los Angeles, CA",Offer from 11/30/2022,Remote,0 yrs,2 yrs,"$95,000","$90,000",--,"$5,000"
+DoorDash,"Boston, MA",Offer from 11/30/2022,Remote,0 yrs,6 yrs,"$371,000","$246,000","$125,000",y1
+State Farm,"Bloomington, IL",Employee as of 11/30/2022,Office,3 yrs,3 yrs,"$78,000","$78,000",--,--
+Barclays,"Wilmington, DE",Offer from 11/30/2022,Office,0 yrs,7 yrs,"$126,500","$115,000",--,"$11,500"
+Credit Suisse,"Raleigh, NC",Employee as of 11/29/2022,Office,3 yrs,10 yrs,"$95,000","$95,000",--,--
+hidden,"Denver, CO",Employee as of 11/29/2022,Remote,2-4 yrs,5-10 yrs,"$112,500","$112,500",--,--
+Visa,"Austin, TX",Employee as of 11/29/2022,Hybrid,2-4 yrs,5-10 yrs,"$147,333","$126,000","$8,333","$13,000"
+IBM,"New York, NY",Employee as of 11/29/2022,Office,0 yrs,0 yrs,"$100,000","$100,000",--,--
+JPMorgan Chase,"Plano, TX",Offer from 11/29/2022,Hybrid,0 yrs,2 yrs,"$117,500","$100,000",--,"$17,500"
+"Toast, Inc.","Orlando, FL",Employee as of 11/29/2022,Remote,0 yrs,2 yrs,"$102,200","$82,000","$12,000","$8,200"
+hidden,"New York, NY",Employee as of 11/29/2022,Hybrid,2-4 yrs,2-4 yrs,"$70,000","$70,000",--,--
+Amazon,"Seattle, WA",Employee as of 11/28/2022,Office,1 yrs,2 yrs,"$129,520","$109,520","$10,000","$10,000"
+Clark Associates,"Lancaster, PA",Employee as of 11/28/2022,Office,1 yr,1 yr,"$63,000","$60,000",--,"$3,000"
+Chronograph,"New York, NY",Employee as of 11/28/2022,Office,0 yr,1 yr,"$60,000","$60,000",--,--
+PepsiCo,"New York, NY",Employee as of 11/28/2022,Remote,2-4 yrs,2-4 yrs,"$95,000","$95,000",--,--
+Facebook,"Menlo Park, CA",Offer from 11/28/2022,Office,0 yrs,4 yrs,"$255,850","$179,000","$50,000",y1
+Capital One,"West McLean, VA",Employee as of 11/28/2022,Office,3 yrs,6 yrs,"$150,000","$130,000",--,"$20,000"
+hidden,"Kansas City, MO",Offer from 11/27/2022,Hybrid,0 yrs,2 yrs,"$95,550","$82,000",--,"$13,550"
+Citi,"Jersey City, NJ",Employee as of 11/26/2022,Hybrid,1 yrs,7 yrs,"$125,000","$125,000",--,--
+Turnberry Solutions,"Minneapolis, MN",Employee as of 11/26/2022,Office,1 yr,1 yr,"$70,000","$70,000",--,--
+Virtusa,"Dallas, TX",Employee as of 11/25/2022,Remote,11 yrs,14 yrs,"$125,000","$120,000",--,"$5,000"
+General Motors,"Detroit, MI",Employee as of 11/25/2022,Remote,2 yrs,3 yrs,"$77,250","$77,250",--,--
+Walmart,"San Bruno, CA",Employee as of 11/25/2022,Hybrid,1 yrs,7 yrs,"$232,000","$160,000","$40,000","$32,000"
+IHS Markit,"Los Angeles, CA",Employee as of 11/25/2022,Office,1 yr,1 yr,"$100,000","$100,000",--,--
+Costco Wholesale,Seattle,Employee as of 11/24/2022,Hybrid,2-4 yrs,11+ yrs,"$126,000","$126,000",--,--
+Meecer,"New York, NY",Employee as of 11/24/2022,Office,2 yrs,3 yrs,"$90,000","$90,000",--,--
+National Institutes of Health,"Rockville, MD",Employee as of 11/23/2022,Remote,2 yrs,2 yrs,"$75,000","$75,000",--,--
+hidden,"Redwood City, CA",Employee as of 11/23/2022,Hybrid,5-10 yrs,5-10 yrs,"$253,750","$126,000","$127,750",--
+Google,"San Francisco, CA",Employee as of 11/23/2022,Office,1 yrs,13 yrs,"$278,500","$185,000","$65,000","$28,500"
+hidden,"Vacaville, CA",Employee as of 11/23/2022,Remote,2 yrs,2 yrs,"$81,000","$81,000",--,--
+T. Rowe Price,"Owings Mills, MD",Employee as of 11/23/2022,Hybrid,8 yrs,12 yrs,"$137,000","$125,000",--,"$12,000"
+Intercom,"San Francisco, CA",Employee as of 11/23/2022,Office,0-1 yrs,5-10 yrs,"$170,000","$170,000",--,--
+Staples,"Framingham, MA",Employee as of 11/23/2022,Hybrid,3 yrs,5 yrs,"$84,975","$77,250",--,"$7,725"
+Avnet,"Phoenix, AZ",Employee as of 11/22/2022,Hybrid,0 yr,1 yr,"$70,000","$70,000",--,--
+Uber,"San Francisco, CA",Employee as of 11/22/2022,Office,0 yr,1 yr,"$100,000","$100,000",--,--
+hidden,"San Francisco, CA",Employee as of 11/22/2022,Hybrid,3 yrs,5 yrs,"$98,000","$98,000",--,--
+Westchester Medical Center,"New York, NY",Employee as of 11/22/2022,Office,1 yr,1 yr,"$70,000","$70,000",--,--
+UC San Diego,"San Diego, CA",Employee as of 11/22/2022,Office,1 yrs,3 yrs,"$80,000","$80,000",--,--
+hidden,"Pleasant Prairie, WI",Employee as of 11/22/2022,Office,5-10 yrs,5-10 yrs,"$67,166","$52,166",--,"$15,000"
+Raytheon,"Los Angeles, CA",Employee as of 11/21/2022,Remote,4 yrs,4 yrs,"$88,000","$88,000",--,--
+Convoy,"Seattle, WA",Employee as of 11/21/2022,Office,1 yrs,7 yrs,"$120,000","$120,000",--,--
+Fanatics,"Jacksonville, FL",Employee as of 11/21/2022,Hybrid,1 yrs,2 yrs,"$84,000","$80,000",--,"$4,000"
+Facebook,"Los Angeles, CA",Employee as of 11/21/2022,Remote,1 yrs,5 yrs,"$161,000","$110,000","$40,000","$11,000"
+Amazon,"Arlington, VA",Employee as of 11/21/2022,Hybrid,1 yrs,8 yrs,"$150,000","$115,000",--,"$35,000"
+JPMorgan Chase,"Columbus, OH",Offer from 11/21/2022,Office,0 yrs,0 yrs,"$65,625","$65,000",--,$625
+Cherry,"Boulder, CO",Offer from 11/21/2022,Remote,0 yrs,3 yrs,"$174,000","$155,000","$9,000",y1
+Level Ex,"Atlanta, GA",Employee as of 11/21/2022,Remote,2 yrs,3 yrs,"$90,000","$90,000",--,--
+JPMorgan Chase,"Chandler, AZ",Employee as of 11/21/2022,Hybrid,5 yrs,5 yrs,"$80,500","$77,700",--,"$2,800"
+Indeed,"Seattle, WA",Employee as of 11/21/2022,Office,5 yrs,7 yrs,"$255,000","$160,000","$40,000","$25,000"
+CGI,"Fairfax, VA",Employee as of 11/21/2022,Hybrid,2 yrs,2 yrs,"$73,000","$73,000",--,--
+FIS,"Cincinnati, OH",Employee as of 11/21/2022,Hybrid,1 yr,1 yr,"$60,000","$60,000",--,--
+NCR,"Atlanta, GA",Offer from 11/21/2022,Hybrid,0 yrs,0 yrs,"$75,625","$75,000",--,$625
+Cambridge Associates,"Washington, DC",Employee as of 11/21/2022,Office,5 yrs,5 yrs,"$75,000","$75,000",--,--
+The New York Times Company,"New York, NY",Employee as of 11/21/2022,Hybrid,3 yrs,6 yrs,"$205,000","$130,000","$55,000","$20,000"
+Samsung,"Austin, TX",Employee as of 11/21/2022,Hybrid,1 yrs,7 yrs,"$135,000","$120,000",--,"$15,000"
+PayPal,"San Jose, CA",Employee as of 11/21/2022,Office,2 yrs,8 yrs,"$194,000","$144,000","$50,000",--
+LTI,"Tampa, FL",Employee as of 11/21/2022,Hybrid,3 yrs,15 yrs,"$130,000","$130,000",--,--
+Capital One,"West McLean, VA",Offer from 11/20/2022,Hybrid,0 yr,1 yr,"$125,375","$114,000",--,"$11,375"
+hidden,"Boston, MA",Employee as of 11/20/2022,Remote,2-4 yrs,2-4 yrs,"$120,000","$120,000",--,--
+New York Life Insurance,"Dallas, TX",Employee as of 11/19/2022,Office,0 yrs,0 yrs,"$63,000","$60,000",--,"$3,000"
+Capital One,"West McLean, VA",Employee as of 11/19/2022,Hybrid,3 yrs,5 yrs,"$164,000","$151,000",--,"$13,000"
+Target,"New York, NY",Offer from 11/19/2022,Office,0 yr,1 yr,"$70,000","$70,000",--,--
+ViacomCBS,"New York, NY",Employee as of 11/19/2022,Hybrid,1 yrs,2 yrs,"$117,800","$107,100",--,"$10,700"
+Applied Materials,"San Jose, CA",Offer from 11/19/2022,Office,0 yrs,17 yrs,"$150,000","$150,000",--,--
+Intuit,"Atlanta, GA",Employee as of 11/19/2022,Remote,1 yrs,5 yrs,"$182,901","$98,175","$70,000","$14,726"
+McKinsey,"New York, NY",Employee as of 11/19/2022,Office,1 yr,1 yr,"$130,000","$100,000","$15,000","$15,000"
+ATSG,"Wilmington, OH",Employee as of 11/19/2022,Office,6 yrs,6 yrs,"$80,000","$80,000",--,--
+Amazon,"Arlington, VA",Employee as of 11/19/2022,Remote,1 yrs,11 yrs,"$207,000","$152,000","$15,000","$40,000"
+NC DHHS,"Raleigh, NC",Employee as of 11/19/2022,Remote,1 yr,1 yr,"$112,000","$112,000",--,--
+Synechron,"Piscataway, NJ",Employee as of 11/18/2022,Hybrid,6 yrs,6 yrs,"$80,000","$80,000",--,--
+Starbucks,"New York, NY",Employee as of 11/18/2022,Office,3 yrs,7 yrs,"$100,000","$100,000",--,--
+Lowe's,"Charlotte, NC",Employee as of 11/18/2022,Remote,1 yrs,3 yrs,"$94,000","$84,000",--,"$10,000"
+KPMG,"Boston, MA",Employee as of 11/18/2022,Remote,3 yrs,3 yrs,"$145,000","$145,000",--,--
+Eastern Kentucky University,"Richmond, KY",Employee as of 11/18/2022,Office,2 yrs,4 yrs,"$40,000","$40,000",--,--
+Fetch,"Boston, MA",Employee as of 11/18/2022,Office,1 yrs,3 yrs,"$100,000","$100,000",--,--
+General Mills,"Minneapolis, MN",Employee as of 11/18/2022,Office,1 yr,1 yr,"$98,000","$90,000",--,"$8,000"
+ZS,"San Francisco, CA",Employee as of 11/18/2022,Office,3 yrs,4 yrs,"$120,000","$120,000",--,--
+The Ohio State University,"Columbus, OH",Employee as of 11/17/2022,Remote,3 yrs,4 yrs,"$68,500","$68,500",--,--
+NYC Health + Hospitals,"New York, NY",Employee as of 11/17/2022,Office,3 yrs,5 yrs,"$100,000","$100,000",--,--
+UBS,"New York, NY",Offer from 11/17/2022,Office,0 yrs,3 yrs,"$125,000","$125,000",--,--
+EXL,"New York, NY",Employee as of 11/17/2022,Office,3 yrs,3 yrs,"$100,000","$100,000",--,--
+Veritiv,"Atlanta, GA",Employee as of 11/17/2022,Office,3 yrs,3 yrs,"$91,000","$91,000",--,--
+The Home Depot,"Atlanta, GA",Employee as of 11/17/2022,Remote,2 yrs,2 yrs,"$76,000","$76,000",--,--
+Kforce,"Chicago, IL",Employee as of 11/17/2022,Hybrid,3 yrs,8 yrs,"$137,280","$137,280",--,--
+Uber,"San Francisco, CA",Employee as of 11/17/2022,Office,0 yrs,2 yrs,"$116,000","$99,000","$7,000","$10,000"
+UBS,"New York, NY",Employee as of 11/17/2022,Office,2-4 yrs,11+ yrs,"$170,000","$170,000",--,--
+Wayfair,"Boston, MA",Employee as of 11/17/2022,Office,2 yrs,7 yrs,"$115,000","$111,000","$4,000",--
+Micro Focus,"Santa Clara, CA",Employee as of 11/16/2022,Remote,3 yrs,6 yrs,"$125,000","$125,000",--,--
+CBRE,"Orlando, FL",Employee as of 11/16/2022,Hybrid,0-1 yrs,5-10 yrs,"$107,800","$98,000",--,"$9,800"
+State Farm,"Bloomington, IL",Employee as of 11/16/2022,Hybrid,2 yrs,2 yrs,"$78,000","$78,000",--,--
